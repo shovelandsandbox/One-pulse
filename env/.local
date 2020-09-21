@@ -1,0 +1,9 @@
+PRU_API_URL=ws://localhost:4200
+PRU_API_HTTP_URL=https://apiuat.pulse.prudentialcorporation-asia.com/api/v1_0_0
+PRU_API_KEY=0bab50605da7498db8d543ba3f15f989
+CMS_URL=""
+BABYLON_APP_IDENTIFIER=PreprodPrudential
+OCR_BASE_URL = "https://vision-uat.prudential.com.sg/api/ocr/v2"
+OCR_API_KEY = "5Wz8BcFCG11HhNwNiexRnu7NC/ZOhDq+Wzx+W9+wYV0="
+BUILD_ENV=local
+DOC_PAYMENT_URL=https://apiuat.prudential.com.my/api/v1_0_0/payment/initiate?cat=

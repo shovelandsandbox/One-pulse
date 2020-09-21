@@ -1,0 +1,8 @@
+const VACCINATION_CALENDAR = "VACCINATION_CALENDAR";
+const VACCINE_TABLE = "VaccineTable";
+const VACCINATION_HOME = "VaccinationHome";
+export default {
+  VACCINATION_CALENDAR,
+  VACCINE_TABLE,
+  VACCINATION_HOME,
+};

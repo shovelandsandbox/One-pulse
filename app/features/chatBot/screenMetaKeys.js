@@ -1,0 +1,50 @@
+export default {
+  screenName: "pruWizard",
+  wizard: {
+    skip: "skip",
+    welcomeMsg: "welcomeMsg",
+    completeProfile: "completeProfile",
+    free: "free",
+    freeHA: "freeHA",
+    continueBtnText: "continueBtnText",
+  },
+  name: {
+    yourName: "yourName",
+    firstName: "firstName",
+    lastName: "lastName",
+    needYourName: "needYourName",
+  },
+  phone: {
+    yourNumber: "yourNumber",
+    countryCode: "countryCode",
+    phoneNumber: "phoneNumber",
+    needYourPhone: "needYourPhone",
+  },
+  address: {
+    whereDoYouLive: "whereDoYouLive",
+    needYourAddress: "needYourAddress",
+    enterAddress: "enterAddress",
+    aptSuite: "aptSuite",
+    enterAptSuiteNo: "enterAptSuiteNo",
+    address: "address",
+  },
+  dob: {
+    yourBirthday: "yourBirthday",
+    qualifyProtection: "qualifyProtection",
+    dob: "dob",
+    done: "done",
+  },
+  gender: {
+    male: "male",
+    female: "female",
+    others: "others",
+    whatIsYourGender: "whatIsYourGender",
+    needYourGender: "needYourGender",
+  },
+  nationalId: {
+    whatsYourNationalId: "whatsYourNationalId",
+    needDetails: "needDetails",
+    nationalId: "nationalId",
+    nationalIdTitle: "nationalIdTitle",
+  },
+};

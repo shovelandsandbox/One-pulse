@@ -1,0 +1,100 @@
+[
+    {
+        "latitude": 5.4104663,
+        "longitude": 100.3190733,
+        "shape": "CIRCLE",
+        "radius": 0,
+        "fillColor": "rgba(255, 0, 0, 0.3)"
+    },
+    {
+        "latitude": 5.7388764,
+        "longitude": 116.1830925,
+        "shape": "CIRCLE",
+        "radius": 0,
+        "fillColor": "rgba(255, 0, 0, 0.3)"
+    },
+    {
+        "latitude": 5.2839373,
+        "longitude": 115.2507443,
+        "shape": "CIRCLE",
+        "radius": 0,
+        "fillColor": "rgba(255, 0, 0, 0.3)"
+    },
+    {
+        "latitude": 4.9215708,
+        "longitude": 101.9134699,
+        "shape": "CIRCLE",
+        "radius": 0,
+        "fillColor": "rgba(255, 0, 0, 0.3)"
+    },
+    {
+        "latitude": 3.11246,
+        "longitude": 101.687431,
+        "shape": "CIRCLE",
+        "radius": 0,
+        "fillColor": "rgba(255, 0, 0, 0.3)"
+    },
+    {
+        "latitude": 2.536732,
+        "longitude": 112.36753,
+        "shape": "CIRCLE",
+        "radius": 0,
+        "fillColor": "rgba(255, 0, 0, 0.3)"
+    },
+    {
+        "latitude": 6.447779,
+        "longitude": 100.221706,
+        "shape": "CIRCLE",
+        "radius": 0,
+        "fillColor": "rgba(255, 0, 0, 0.3)"
+    },
+    {
+        "latitude": 4.585905,
+        "longitude": 101.085041,
+        "shape": "CIRCLE",
+        "radius": 0,
+        "fillColor": "rgba(255, 0, 0, 0.3)"
+    },
+    {
+        "latitude": 3.802379,
+        "longitude": 103.307573,
+        "shape": "CIRCLE",
+        "radius": 0,
+        "fillColor": "rgba(255, 0, 0, 0.3)"
+    },
+    {
+        "latitude": 2.8396872,
+        "longitude": 101.6416211,
+        "shape": "CIRCLE",
+        "radius": 0,
+        "fillColor": "rgba(255, 0, 0, 0.3)"
+    },
+    {
+        "latitude": 2.260243,
+        "longitude": 102.277978,
+        "shape": "CIRCLE",
+        "radius": 0,
+        "fillColor": "rgba(255, 0, 0, 0.3)"
+    },
+    {
+        "latitude": 5.123803,
+        "longitude": 102.254082,
+        "shape": "CIRCLE",
+        "radius": 0,
+        "fillColor": "rgba(255, 0, 0, 0.3)"
+    },
+    {
+        "latitude": 5.660464,
+        "longitude": 100.519012,
+        "shape": "CIRCLE",
+        "radius": 0,
+        "fillColor": "rgba(255, 0, 0, 0.3)"
+    },
+    {
+        "latitude": 1.502634,
+        "longitude": 103.741905,
+        "shape": "CIRCLE",
+        "radius": 0,
+        "fillColor": "rgba(255, 0, 0, 0.3)"
+    }
+]

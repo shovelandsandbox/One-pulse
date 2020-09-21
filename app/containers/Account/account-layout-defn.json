@@ -1,0 +1,237 @@
+{
+  "layout": "grid",
+  "name": "Account",
+  "numCols": 1,
+  "components": [
+    {
+      "id": 1,
+      "type": "list",
+      "title": "",
+      "properties": {},
+      "display": {
+        "autoCalculate": false
+      },
+      "components": [
+        {
+          "id": 1,
+          "type": "profile",
+          "display": {
+            "borderRadius": 10
+          },
+          "properties": {
+            "icon": "NEW_PROFILE_ICON",
+            "screenKey": "NEW_ME",
+            "elementKey": "NEW_ME_PROFILE",
+            "thirdColumn": true,
+            "isSwitch": false,
+            "thirdColumnText": "",
+            "actionType": "newProfile",
+            "visibility": true
+          },
+          "actions": [
+            {
+              "on": "click",
+              "actionsToDispatch": [
+                {
+                  "context": "Account",
+                  "type": "CHANGE_PASSWORD_RESET"
+                },
+                {
+                  "context": "Account",
+                  "type": "RESET_UPDATE_NOTIFICATION"
+                },
+                {
+                  "type": "resetFeedback"
+                },
+                {
+                  "context": "ManageProfile",
+                  "type": "GO_TO_NEW_PROFILE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "type": "profile",
+          "display": {
+            "borderRadius": 10
+          },
+          "properties": {
+            "icon": "REWARD_ICON_RED",
+            "screenKey": "MY_NOTIFICATION_CENTER",
+            "elementKey": "MY_REWARDS",
+            "thirdColumn": true,
+            "isSwitch": false,
+            "thirdColumnText": "",
+            "actionType": "rewards",
+            "visibility": true,
+            "countries": ["PH", "KH", "VN"]
+
+          },
+          "actions": [
+            {
+              "on": "click",
+              "actionsToDispatch": [
+                {
+                  "navigateTo": "RewardCentre",
+                  "type": "GO_TO_SCREEN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "type": "profile",
+          "display": {
+            "borderRadius": 10
+          },
+          "properties": {
+            "icon": "NOTIFICATION_ICON_RED",
+            "screenKey": "MY_NOTIFICATION_CENTER",
+            "elementKey": "MY_NOTIFICATIONS",
+            "thirdColumn": true,
+            "isSwitch": false,
+            "thirdColumnText": "",
+            "actionType": "notification",
+            "visibility": true,
+            "countries": ["PH", "KH", "VN"]
+
+          },
+          "actions": [
+            {
+              "on": "click",
+              "actionsToDispatch": [
+                {
+                  "navigateTo": "NotificationCentre",
+                  "type": "GO_TO_SCREEN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "type": "profile",
+          "display": {
+            "borderRadius": 10
+          },
+          "properties": {
+            "icon": "NEW_SETTINGS_ICON",
+            "screenKey": "NEW_ME",
+            "elementKey": "NEW_ME_SETTINGS",
+            "thirdColumn": true,
+            "isSwitch": false,
+            "thirdColumnText": "",
+            "actionType": "Settings",
+            "visibility": true
+          },
+          "actions": [
+            {
+              "on": "click",
+              "actionsToDispatch": [
+                {
+                  "context": "Account",
+                  "type": "CHANGE_PASSWORD_RESET"
+                },
+                {
+                  "context": "Account",
+                  "type": "RESET_UPDATE_NOTIFICATION"
+                },
+                {
+                  "context": "ManageProfile",
+                  "type": "GO_TO_NEW_PROFILE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "type": "profile",
+          "display": {
+            "borderRadius": 10
+          },
+          "properties": {
+            "icon": "NEW_FEEDBACK_ICON_",
+            "screenKey": "NEW_ME",
+            "elementKey": "NEW_ME_PROVIDEFEEDBACK",
+            "thirdColumn": true,
+            "isSwitch": false,
+            "thirdColumnText": "",
+            "actionType": "PulseFeedbackScreen",
+            "visibility": true,
+            "toastScreenKey": "NEW_PROVIDEFEEDBACK",
+            "toastElementKey": "NEW_PROVIDEFEEDBACK_THANK"
+          },
+          "actions": [
+            {
+              "on": "click",
+              "actionsToDispatch": [
+                {
+                  "context": "Account",
+                  "type": "CHANGE_PASSWORD_RESET"
+                },
+                {
+                  "context": "Account",
+                  "type": "RESET_UPDATE_NOTIFICATION"
+                },
+                {
+                  "context": "ManageProfile",
+                  "type": "GO_TO_NEW_PROFILE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "type": "profile",
+          "display": {
+            "borderRadius": 10
+          },
+          "properties": {
+            "icon": "NEW_PRIVACY_ICON",
+            "screenKey": "NEW_ME",
+            "elementKey": "NEW_ME_ABOUTPULSEAPP",
+            "thirdColumn": false,
+            "isSwitch": false,
+            "thirdColumnText": "",
+            "actionType": "AboutPulseScreen",
+            "visibility": true
+          },
+          "actions": [
+            {
+              "on": "click",
+              "actionsToDispatch": [
+                {
+                  "context": "ManageProfile",
+                  "type": "GO_TO_NEW_PROFILE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "type": "profile",
+          "display": {
+            "borderRadius": 10
+          },
+          "properties": {
+            "icon": "NEW_SIGN_OUT",
+            "screenKey": "NEW_ME",
+            "elementKey": "NEW_ME_SIGNOUT",
+            "thirdColumn": false,
+            "isSwitch": false,
+            "thirdColumnText": "",
+            "actionType": "logout",
+            "visibility": true
+          },
+          "actions": []
+        }
+      ]
+    }
+  ]
+}

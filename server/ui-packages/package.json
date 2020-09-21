@@ -1,0 +1,8 @@
+{
+  "name": "LandingScreen",
+  "rootUrl": "http://10.0.2.2:8887/ui-packages",
+  "platformUrl": "ws://10.0.2.2:8889/ws",
+  "cmsRootUrl": "http://10.0.2.2:8887/ui-packages/resources",
+  "theme": "default",
+  "version": "1.0"
+}

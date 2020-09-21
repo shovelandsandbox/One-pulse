@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1003988257868-aq2bm3gc632dmeci09pprcfrqph9ctdd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1003988257868-aq2bm3gc632dmeci09pprcfrqph9ctdd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1003988257868-tu3pvooablgfdqvmd7rcsh48hnn8bmgl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAZAMRcdn1h8WYufRgOGtjZ9MV5BDCrryg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1003988257868</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.prudential.pulse.myuat</string>
+	<key>PROJECT_ID</key>
+	<string>prutopia-5a221</string>
+	<key>STORAGE_BUCKET</key>
+	<string>prutopia-5a221.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1003988257868:ios:83bbb3f5cb4b87fc</string>
+	<key>DATABASE_URL</key>
+	<string>https://prutopia-5a221.firebaseio.com</string>
+</dict>
+</plist>

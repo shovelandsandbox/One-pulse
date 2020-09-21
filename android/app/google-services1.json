@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "162235968743",
+    "firebase_url": "https://onepulse-3329a.firebaseio.com",
+    "project_id": "onepulse-3329a",
+    "storage_bucket": "onepulse-3329a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162235968743:android:a8e4aec1532f14e9298642",
+        "android_client_info": {
+          "package_name": "com.prudential.pulse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162235968743-qm1msmgbfj9deqv7nfo8f7pbl0fph4rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBswgRF1Q6Xmnt9tfo_ihknCGE5JX6ToZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162235968743-qm1msmgbfj9deqv7nfo8f7pbl0fph4rv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162235968743-q78vj8d1mas94q5jmn7j5hkrp51j4ijv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.prudential.pulse.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162235968743:android:23f1b5b72dc7e55e298642",
+        "android_client_info": {
+          "package_name": "com.prudential.pulse.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162235968743-qm1msmgbfj9deqv7nfo8f7pbl0fph4rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBswgRF1Q6Xmnt9tfo_ihknCGE5JX6ToZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162235968743-qm1msmgbfj9deqv7nfo8f7pbl0fph4rv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162235968743-q78vj8d1mas94q5jmn7j5hkrp51j4ijv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.prudential.pulse.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162235968743:android:aa8270ec99bcea89298642",
+        "android_client_info": {
+          "package_name": "com.prudential.pulse.uat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162235968743-qm1msmgbfj9deqv7nfo8f7pbl0fph4rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBswgRF1Q6Xmnt9tfo_ihknCGE5JX6ToZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162235968743-qm1msmgbfj9deqv7nfo8f7pbl0fph4rv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162235968743-q78vj8d1mas94q5jmn7j5hkrp51j4ijv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.prudential.pulse.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+export default {
+  savePicture: "skinCareAI/savePicture",
+  savePictureSuccess: "skinCareAI/savePictureSuccess",
+  savePictureFailure: "skinCareAI/savePictureFailure",
+  shareResults: "skinCareAI/shareResults",
+  resetShare: "skinCareAI/resetShare",
+  goToResultPage: "skinCareAI/goToResultPage",
+  disableTakePicture: "skinCareAI/disableTakePicture",
+  hideErrorMessage: "skinCareAI/hideErrorMessage",
+  resetTakePicture: "skinCareAI/resetTakePicture",
+  initSkinCareAI: "skinCareAI/initSkinCareAI",
+  enableSkinCareAICheck: "skinCareAI/enableSkinCareAICheck",
+  disableLoadingText: "skinCareAI/disableLoadingText",
+  shouldResetModal: "skinCareAI/shouldResetModal",
+};

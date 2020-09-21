@@ -1,0 +1,335 @@
+{
+  "label": "",
+  "image": "",
+  "key": "NavigatorMapConfig",
+  "elements": [
+    {
+      "type": "label",
+      "key": "categories",
+      "label": [
+        {
+          "key": "Hospitals",
+          "display_name": "Hospitals",
+          "visible": true,
+          "img_uri": "/Navigator/hospitalIcon.png",
+          "filters": [
+            {
+              "key": "NearYou",
+              "display_name": "Near you",
+              "filter_by_key": "",
+              "filter_by_value": "",
+              "visible": true
+            },
+            {
+              "key": "All",
+              "display_name": "All",
+              "filter_by_key": "",
+              "filter_by_value": "",
+              "visible": true
+            },
+            {
+              "key": "Public",
+              "display_name": "Public",
+              "filter_by_key": "hospitalType",
+              "filter_by_value": "Public",
+              "visible": true
+            },
+            {
+              "key": "Private",
+              "display_name": "Private",
+              "filter_by_key": "hospitalType",
+              "filter_by_value": "Private",
+              "visible": true
+            }
+          ],
+          "viewConfig": [
+            {
+              "config_style": "{ \"flex\": 1, \"marginTop\": 8 }",
+              "content": [
+                {
+                  "key": "category_image",
+                  "content_style": "{\"justifyContent\":\"center\",\"alignItems\":\"center\",\"marginRight\":8}",
+                  "visible": true,
+                  "containers": [
+                    {
+                      "key": "category_image",
+                      "img_uri": "/Navigator/hospitalplusIcon.png",
+                      "type": "image",
+                      "image_style": "{\"height\":20,\"resizeMode\":\"contain\",\"width\":20}",
+                      "action": "",
+                      "invoke_func": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "config_style": "{ \"flex\": 7 }",
+              "content": [
+                {
+                  "key": "name",
+                  "visible": true,
+                  "containers": [
+                    {
+                      "key": "name",
+                      "key_style": "{\"fontSize\":14,\"color\":\"#2f2f2f\",\"fontWeight\":\"bold\"}"
+                    }
+                  ]
+                },
+                {
+                  "key": "address",
+                  "visible": true,
+                  "containers": [
+                    {
+                      "key": [
+                        "address.line1",
+                        "address.line2",
+                        "address.line3"
+                      ],
+                      "key_style": "{\"fontSize\":12,\"color\":\"#2f2f2f\",\"marginTop\":4}"
+                    }
+                  ]
+                },
+                {
+                  "key": "timings",
+                  "visible": true,
+                  "containers": [
+                    {
+                      "key": "timing",
+                      "key_style": "{\"fontSize\":14,\"color\":\"#2f2f2f\",\"marginTop\":4}",
+                      "display_name": "Timings:",
+                      "label_style": "{\"fontSize\":12,\"fontWeight\":\"bold\",\"color\":\"#2f2f2f\",\"marginTop\":8}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "config_style": "{\"flex\": 3,\"justifyContent\":\"space-between\",\"alignItems\": \"center\"}",
+              "content": [
+                {
+                  "key": "favorite_image",
+                  "visible": false,
+                  "containers": [
+                    {
+                      "key": "favorite_image",
+                      "type": "image",
+                      "img_uri": "/Navigator/Icon-Health-Active.png",
+                      "toggle_image": true,
+                      "img_uri_active": "/Navigator/favactive.png",
+                      "img_uri_inactive": "/Navigator/favInactive.png",
+                      "image_style": "{\"height\":41,\"resizeMode\":\"contain\",\"width\":41}",
+                      "invoke_func": "handleOnFavouriteClick",
+                      "action": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "call_navigate_image",
+                  "visible": true,
+                  "content_style": "{\"flexDirection\":\"row\",\"justifyContent\":\"space-between\",\"alignItems\":\"center\",\"flex\":1, \"width\":\"100%\"}",
+                  "containers": [
+                    {
+                      "key": "call_image",
+                      "type": "image",
+                      "img_uri": "/Navigator/call.png",
+                      "image_style": "{\"height\":41,\"resizeMode\":\"contain\",\"width\":41}",
+                      "invoke_func": "handleOnCallClick",
+                      "action": ""
+                    },
+                    {
+                      "key": "navigate_image",
+                      "type": "image",
+                      "img_uri": "/Navigator/navigate.png",
+                      "image_style": "{\"height\":41,\"resizeMode\":\"contain\",\"width\":41}",
+                      "invoke_func": "handleOnNavigateClick",
+                      "action": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "seeDetails",
+                  "visible": true,
+                  "containers": [
+                    {
+                      "display_name": "See Details",
+                      "label_style": "{\"fontSize\":12,\"color\":\"#ea1b2d\",\"textDecorationLine\":\"underline\"}",
+                      "invoke_func": "",
+                      "action": {
+                        "params": {"renderType": "HD_RENDER_HOSPITAL"},
+                        "context": "",
+                        "navigateTo": "HospitalDetail",
+                        "type": "GO_TO_SCREEN"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "Clinics",
+          "display_name": "Clinics",
+          "visible": true,
+          "img_uri": "/Navigator/clinicIcon.png",
+          "filters": [
+            {
+              "key": "NearYou",
+              "display_name": "Near you",
+              "filter_by_key": "",
+              "filter_by_value": "",
+              "visible": true
+            },
+            {
+              "key": "All",
+              "display_name": "All",
+              "filter_by_key": "",
+              "filter_by_value": "",
+              "visible": true
+            },
+            {
+              "key": "Public",
+              "display_name": "Public",
+              "filter_by_key": "hospitalType",
+              "filter_by_value": "Public",
+              "visible": true
+            },
+            {
+              "key": "Private",
+              "display_name": "Private",
+              "filter_by_key": "hospitalType",
+              "filter_by_value": "Private",
+              "visible": true
+            }
+          ],
+          "viewConfig": [
+            {
+              "config_style": "{ \"flex\": 1, \"marginTop\": 8 }",
+              "content": [
+                {
+                  "key": "category_image",
+                  "content_style": "{\"justifyContent\":\"center\",\"alignItems\":\"center\",\"marginRight\":8}",
+                  "visible": true,
+                  "containers": [
+                    {
+                      "key": "category_image",
+                      "img_uri": "/Navigator/cliniclogo.png",
+                      "type": "image",
+                      "image_style": "{\"height\":20,\"resizeMode\":\"contain\",\"width\":20}",
+                      "action": "",
+                      "invoke_func": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "config_style": "{ \"flex\": 7 }",
+              "content": [
+                {
+                  "key": "name",
+                  "visible": true,
+                  "containers": [
+                    {
+                      "key": "name",
+                      "key_style": "{\"fontSize\":14,\"color\":\"#2f2f2f\",\"fontWeight\":\"bold\"}"
+                    }
+                  ]
+                },
+                {
+                  "key": "address",
+                  "visible": true,
+                  "containers": [
+                    {
+                      "key": [
+                        "address.line1",
+                        "address.line2",
+                        "address.line3"
+                      ],
+                      "key_style": "{\"fontSize\":12,\"color\":\"#2f2f2f\",\"marginTop\":4}"
+                    }
+                  ]
+                },
+                {
+                  "key": "timings",
+                  "visible": true,
+                  "containers": [
+                    {
+                      "key": "timing",
+                      "key_style": "{\"fontSize\":14,\"color\":\"#2f2f2f\",\"marginTop\":4}",
+                      "display_name": "Timings:",
+                      "label_style": "{\"fontSize\":12,\"fontWeight\":\"bold\",\"color\":\"#2f2f2f\",\"marginTop\":8}"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "config_style": "{\"flex\": 3,\"justifyContent\":\"space-between\",\"alignItems\": \"center\"}",
+              "content": [
+                {
+                  "key": "favorite_image",
+                  "visible": false,
+                  "containers": [
+                    {
+                      "key": "favorite_image",
+                      "type": "image",
+                      "img_uri": "/Navigator/Icon-Health-Active.png",
+                      "toggle_image": true,
+                      "img_uri_active": "/Navigator/favactive.png",
+                      "img_uri_inactive": "/Navigator/favInactive.png",
+                      "image_style": "{\"height\":41,\"resizeMode\":\"contain\",\"width\":41}",
+                      "invoke_func": "handleOnFavouriteClick",
+                      "action": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "call_navigate_image",
+                  "visible": true,
+                  "content_style": "{\"flexDirection\":\"row\",\"justifyContent\":\"space-between\",\"alignItems\":\"center\",\"flex\":1, \"width\":\"100%\"}",
+                  "containers": [
+                    {
+                      "key": "call_image",
+                      "type": "image",
+                      "img_uri": "/Navigator/call.png",
+                      "image_style": "{\"height\":41,\"resizeMode\":\"contain\",\"width\":41}",
+                      "invoke_func": "handleOnCallClick",
+                      "action": ""
+                    },
+                    {
+                      "key": "navigate_image",
+                      "type": "image",
+                      "img_uri": "/Navigator/navigate.png",
+                      "image_style": "{\"height\":41,\"resizeMode\":\"contain\",\"width\":41}",
+                      "invoke_func": "handleOnNavigateClick",
+                      "action": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "seeDetails",
+                  "visible": true,
+                  "containers": [
+                    {
+                      "display_name": "See Details",
+                      "label_style": "{\"fontSize\":12,\"color\":\"#ea1b2d\",\"textDecorationLine\":\"underline\"}",
+                      "invoke_func": "",
+                      "action": {
+                        "params": {"renderType": "HD_RENDER_CLINIC"},
+                        "context": "",
+                        "navigateTo": "HospitalDetail",
+                        "type": "GO_TO_SCREEN"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

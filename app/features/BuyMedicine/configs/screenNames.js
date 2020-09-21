@@ -1,0 +1,5 @@
+const MEDICINE_DELIVERY = "MEDICINE_DELIVERY"
+
+export default {
+    MEDICINE_DELIVERY
+}

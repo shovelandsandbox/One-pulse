@@ -1,0 +1,25 @@
+{
+  "name": "pru-country-babel-plugin",
+  "version": "0.0.1",
+  "description": "Babel plugin to choose different countries for Pulse",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "country",
+    "babel-plugin"
+  ],
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2015-mod": "^6.6.0",
+    "babel-preset-es3": "^1.0.1",
+    "babel-preset-minify": "^0.2.0",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  },
+  "author": "Arijit Mahapatra",
+  "license": "MIT"
+}

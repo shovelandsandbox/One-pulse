@@ -1,0 +1,19 @@
+/* 
+  InfoPlist.strings
+  HealthCareApp
+
+  Created by RAGE_Devil_Jameson on 2019/7/16.
+  Copyright © 2019 Prudential. All rights reserved.
+*/
+"NSCameraUsageDescription" = "Pulse requires access to camera for capturing your Profile Picture, BMI, Wrinkle index calculations and Facial login.";
+"NSFaceIDUsageDescription" = "Pulse uses Touch ID to facilitate login to the account, once Touch ID is enabled for the account.";
+"NSPhotoLibraryUsageDescription" = "Pulse requires access to photo library to choose profile photograph.";
+"NSPhotoLibraryAddUsageDescription" = "Pulse requires access to photo library to choose profile photograph.";
+"NSContactsUsageDescription"="Pulse requires access to contacts to share the App link with friends and family.";
+"NSLocationAlwaysUsageDescription"="Pulse requires access to location to suggest personalized content, outbreak areas, nearby hospitals and clinics.";
+"NSLocationAlwaysAndWhenInUseUsageDescription"="Pulse requires access to location to suggest personalized content, outbreak areas, nearby hospitals and clinics.";
+"NSLocationWhenInUseUsageDescription"="Pulse requires access to location to suggest personalized content, outbreak areas, nearby hospitals and clinics.";
+"NSMicrophoneUsageDescription" = "Pulse requires access to Microphone for video teleconsultation with doctors.";
+"NSCalendarsUsageDescription" = "Pulse requires access to calendar to select date and set reminders.";
+"NSHealthShareUsageDescription" = "Pulse uses health data for tracking physical activity data, once authorised, and reward top of the charts on fitness challenges";
+"NSHealthUpdateUsageDescription" = "Pulse uses health data for tracking physical activity data, once authorised, and reward top of the charts on fitness challenges";

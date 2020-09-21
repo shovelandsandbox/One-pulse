@@ -1,0 +1,10 @@
+export const LEADERBOARD = require("./challenges/leaderboard.png");
+export const NO_CHALLENGE = require("./challenges/noChallenge.png");
+export const ACTIVE_CHECK = require("./challenges/activeCheck.png");
+export const PDF_ICON = require("./challenges/pdfIcon.png");
+export const LEADERBOARD_BLACK = require("./challenges/leaderboardBlack.png");
+export const LEADERBOARD_BACKGROUND = require("./challenges/leaderboardBck.png");
+export const CROWN = require("./challenges/crown.png");
+export const LEADERBOARD_STAND = require("./challenges/leaderboardStand.png");
+export const LEFT_ARROW = require("./challenges/leftArrow.png");
+export const NOTIFICATION_BELL = require("./challenges/alarm.png");

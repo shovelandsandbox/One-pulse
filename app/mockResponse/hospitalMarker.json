@@ -1,0 +1,47 @@
+{
+    "id": "1",
+    "name": "METRO SPECIALIST HOSPITAL",
+    "type": "HOSPITAL",
+    "timing": "Sunday-Thursday: 9:00am-5:00pm\n\nFriday: 9:00am to 1:00pm\n\nSaturday & Public Holiday: Closed",
+    "specialities": [
+        "ANAESTHESIOLOGIST",
+        "OBSTETRICIAN & GYNAECOLOGIST",
+        "PHYSICIAN & GASTROENTEROLOGIST",
+        "RADIOLOGIST",
+        "EAR, NOSE & THROAT SURGEON",
+        "PHYSICIAN",
+        "ORTHOPAEDIC",
+        "DENTAL SURGEON",
+        "MEDICAL OFFICER",
+        "UROLOGIST",
+        "CARDIOLOGIST",
+        "OPHTHALMOLOGIST",
+        "ORTHOPAEDIC & TRAUMATOLOGY SURGEON",
+        "PAEDIATRICIAN",
+        "GENERAL SURGEON",
+        "NEPHROLOGIST"
+    ],
+    "contactDetails": {
+        "website": {
+            "channel": "CUSTOM",
+            "customChannel": "website",
+            "value": "http://www.hospitalmetro.com/"
+        },
+        "phone": {
+            "channel": "PHONE",
+            "value": "+6044238888"
+        },
+        "fax": {
+            "channel": "CUSTOM",
+            "customChannel": "fax",
+            "value": "+6044258888"
+        }
+    },
+    "address": {
+        "line1": "No. 1 , Lorong Metro,",
+        "line2": "08000 Sungai Petani",
+        "line3": "Kedah",
+        "latitude": 5.6291,
+        "longitude": 100.51
+    }
+}

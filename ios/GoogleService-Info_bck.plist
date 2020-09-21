@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1082677437964-9e75t98d29qrgs9f4l8l30sqdv1l368q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1082677437964-9e75t98d29qrgs9f4l8l30sqdv1l368q</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1082677437964-l2nq3ps22g308kisist1uq7ldaoltge9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA0FGVMQ4Oi8tk5CnNjgsl1RroZWg4fs5g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1082677437964</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.prudential.pulse.khuat</string>
+	<key>PROJECT_ID</key>
+	<string>pulse-khm</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pulse-khm.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1082677437964:ios:1dffbcb411ef491f14b029</string>
+	<key>DATABASE_URL</key>
+	<string>https://pulse-khm.firebaseio.com</string>
+</dict>
+</plist>

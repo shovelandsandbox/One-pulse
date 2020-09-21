@@ -1,0 +1,2 @@
+export const AIR_QUALITY_DATA = "AIR_QUALITY_DATA"
+

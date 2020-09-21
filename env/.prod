@@ -1,0 +1,16 @@
+PRU_API_URL=wss://ws-api.pulse.prudentialcorporation-asia.com/ws
+PRU_API_HTTP_URL=https://api.pulse.prudentialcorporation-asia.com/api/v1_0_0
+PACKAGE_ROOT_URL=https://api.pulse.prudentialcorporation-asia.com/api/v1_0_0/cms/pulse
+PRU_API_KEY=31983dee5ea406fe5544f6195ed4822ed84a8309766e3cd1df43c7264cfdc4cb
+CMS_URL=https://api.pulse.prudentialcorporation-asia.com/api/v1_0_0/cms/
+BABYLON_APP_IDENTIFIER=PRODUCTION
+BUILD_ENV=prod
+APP_GROUP_ID=group.prudential.pulse.onepulse
+BROADCAST_EXT_ID=com.prudential.pulse.onepulse.pbc
+GOOGLE_PLACES_URL=https://maps.googleapis.com/maps/api/place/autocomplete/json
+GOOGLE_PLACE_DETAILS_URL=https://maps.googleapis.com/maps/api/place/details/json
+GOOGLE_API_KEY_ANDROID=AIzaSyBpMIopzYSxIG7kMbLoMDzX5sLXHiOczeA
+GOOGLE_API_KEY_IOS=AIzaSyBpMIopzYSxIG7kMbLoMDzX5sLXHiOczeA
+GOOGLE_MAPS_GEOCODING_API_KEY=AIzaSyBN7511_6iwTgoGJ0L16_uqrR550BJX8-U
+PLUK_PRULEADS_SERVICE_URL=https://pulse-leads-prd.prulifeuk.com.ph
+ABI_FILTERS=arm64-v8a

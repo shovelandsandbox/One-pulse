@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Pulse</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Pulse</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>Google Sign In Reverse Client ID</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.162235968743-8icb8ghiddllprludnfse8mtm9svdu2a</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.babylonpartners.sdks.SampleApp</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.babylonpartners.sdks.SampleApp</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>Facebook APP ID</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb728972314292632</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>Application</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>pulseml</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>healthcareapp.dynamiclink.dev</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.prudential.pulse.dev</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>healthcareapp.dynamiclink.uat</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.prudential.pulse.uat</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.prudential.pulse</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.prudential.pulse.onepulse</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1.5</string>
+	<key>FacebookAppID</key>
+	<string>728972314292632</string>
+	<key>FacebookDisplayName</key>
+	<string>Pulse By Prudential</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>googlechromes</string>
+		<string>SuperAppDemo</string>
+		<string>comgooglemaps</string>
+		<string>fbapi</string>
+		<string>fb-messenger-api</string>
+		<string>fbauth2</string>
+		<string>fbshareextension</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Pulse requires access to calendar to select date and set reminders.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Pulse requires access to camera for capturing your Profile Picture, BMI, Wrinkle index calculations and Facial login.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Pulse requires access to contacts to share the App link with friends and family.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Pulse uses Touch ID to facilitate login to the account, once Touch ID is enabled for the account.</string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>Pulse uses health data for tracking physical activity data, once authorised, and reward top of the charts on fitness challenges.</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>Pulse uses health data for tracking physical activity data, once authorised, and reward top of the charts on fitness challenges.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Pulse requires access to location to suggest personalized content, outbreak areas, nearby hospitals and clinics.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Pulse requires access to location to suggest personalized content, outbreak areas, nearby hospitals and clinics.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Pulse requires access to location to suggest personalized content, outbreak areas, nearby hospitals and clinics.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Pulse requires access to Microphone for video teleconsultation with doctors.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Pulse requires access to photo library to choose profile photograph.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Pulse requires access to photo library to choose profile photograph.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Trirong-Regular.ttf</string>
+		<string>Taviraj-Regular.ttf</string>
+		<string>kanit-Regular.ttf</string>
+		<string>Itim-Regular.ttf</string>
+		<string>PruSansNormal-Demi.ttf</string>
+		<string>PruSansNormal-Demiitalic.ttf</string>
+		<string>pru-italic.ttf</string>
+		<string>PruSansNormal.ttf</string>
+		<string>pruSansItalic.ttf</string>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Feather.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>FontAwesome5_Brands.ttf</string>
+		<string>FontAwesome5_Regular.ttf</string>
+		<string>FontAwesome5_Solid.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Zocial.ttf</string>
+		<string>Pru Sans Normal Book Italic.ttf</string>
+		<string>Pru Sans Normal Demi Italic.ttf</string>
+		<string>Pru Sans Normal Demi.ttf</string>
+		<string>Pru Sans Normal.ttf</string>
+		<string>pru-bold.ttf</string>
+		<string>pru-bolditalic.ttf</string>
+		<string>pru-regular.ttf</string>
+		<string>pruSansBold.ttf</string>
+		<string>pruSansBolditalic.ttf</string>
+		<string>pruSansRegular.ttf</string>
+		<string>AvenirLTStd-Roman.ttf</string>
+		<string>pulse-icon.ttf</string>
+		<string>OpenSans-Bold.ttf</string>
+		<string>OpenSans-BoldItalic.ttf</string>
+		<string>OpenSans-ExtraBold.ttf</string>
+		<string>OpenSans-ExtraBoldItalic.ttf</string>
+		<string>OpenSans-Italic.ttf</string>
+		<string>OpenSans-Light.ttf</string>
+		<string>OpenSans-LightItalic.ttf</string>
+		<string>OpenSans-Regular.ttf</string>
+		<string>OpenSans-SemiBold.ttf</string>
+		<string>OpenSans-SemiBoldItalic.ttf</string>
+		<string>Avenir-Regular.ttf</string>
+		<string>Avenir-Black-03.tff</string>
+		<string>Avenir-BlackOblique-04.ttf</string>
+		<string>Avenir-Book-01.ttf</string>
+		<string>Avenir-BookOblique-02.ttf</string>
+		<string>Avenir-Heavy-05.ttf</string>
+		<string>Avenir-HeavyOblique-06.ttf</string>
+		<string>Avenir-Light-07.ttf</string>
+		<string>Avenir-LightOblique-08.ttf</string>
+		<string>Avenir-Medium-09.ttf</string>
+		<string>Avenir-MediumOblique-10.ttf</string>
+		<string>Avenir-Oblique-11.ttf</string>
+		<string>Avenir-Roman-12.ttf</string>
+		<string>AvenirLTStd-Roman.ttf</string>
+		<string>FS Albert Pro.otf</string>
+		<string>NotoSans-Regular.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>audio</string>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

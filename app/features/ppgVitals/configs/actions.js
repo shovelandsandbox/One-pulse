@@ -1,0 +1,15 @@
+export default {
+  initPpgVitals: "ppgVitals/init",
+  createUserConversation: "ppgVitals/createUserConversation",
+  createUserConversationSuccess: "ppgVitals/createUserConversationSuccess",
+  createUserConversationFailure: "ppgVitals/createUserConversationFailure",
+  getPPGVitals: "ppgVitals/getPPGVitals",
+  getPPGVitalsSuccess: "ppgVitals/getPPGVitalsSuccess",
+  getPPGVitalsFailure: "ppgVitals/getPPGVitalsFailure",
+  GO_TO_SCREEN: "GO_TO_SCREEN",
+  enableLoadScreen: "ppgVitals/enableLoadScreen",
+  resetErrorMessage: "ppgVitals/disableErrorMessage",
+  setFinalApiCall: "ppgVitals/setFinalApiCall",
+  setTensorReady: "ppgVitals/setTensorReady",
+  enableppgVitals: "ppgVitals/enableppgVitals",
+};

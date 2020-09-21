@@ -1,0 +1,88 @@
+import { StyleSheet } from "react-native";
+import { getLineHeight } from "../../../../utils/StyleUtils";
+
+export default StyleSheet.create({
+  whiteContainer: {
+    paddingLeft: 5,
+    paddingRight: 5,
+    backgroundColor: "#fff",
+    flex: 1,
+    borderRadius: 10,
+  },
+  contentView: {
+    backgroundColor: "#ffffff",
+    borderRadius: 10,
+    elevation: 3,
+    height: "auto",
+    marginBottom: 20,
+    marginHorizontal: 15,
+    marginTop: 10,
+    paddingHorizontal: 10,
+    paddingVertical: 10,
+    shadowColor: "#000",
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.7,
+    shadowRadius: 3,
+  },
+  whiteHeaderContainer: {
+    flex: 1,
+    flexDirection: "row",
+    justifyContent: "space-between",
+    marginTop: 5,
+  },
+  whiteHeader: {
+    color: "#ed1b2e",
+    fontSize: 20,
+  },
+  whiteSupport: {
+    color: "#888888",
+    fontSize: 12,
+    marginTop: 4,
+    marginBottom: 4,
+    fontFamily: "Avenir-Roman",
+    lineHeight: 16,
+    textAlign: "center",
+  },
+  whiteContainerBody: {
+    paddingVertical: 10,
+  },
+  imgBackground: {
+    bottom: 0,
+    height: "54%",
+    opacity: 0.7,
+    position: "absolute",
+    right: 0,
+    width: "32%",
+    zIndex: 9999,
+  },
+  imgBackgroundInCenter: {
+    alignSelf: "center",
+    height: 110,
+    justifyContent: "center",
+    opacity: 0.7,
+    position: "absolute",
+    top: 100,
+    width: 110,
+    zIndex: 9999,
+  },
+  earnContainer: { flexDirection: "row", marginTop: 15 },
+  earnFlex1: { flex: 1, marginLeft: 10 },
+  earnFlex2: {
+    flex: 1,
+    justifyContent: "center",
+    alignItems: "flex-end",
+    paddingRight: 10,
+  },
+  earnBadgeCount: {
+    color: "#2f2f2f",
+    fontFamily: "Avenir-Black",
+    fontSize: 14,
+    marginLeft: 3,
+    lineHeight: getLineHeight(14),
+    fontWeight: "600",
+  },
+  earnTotalBadge: { color: "#000", fontFamily: "Avenir-Roman", marginTop: 5, fontSize: 10, lineHeight: getLineHeight(10) },
+  earnImg: { height: 40, width: 100, resizeMode: "contain" },
+  flexDirec: { flexDirection: "row" },
+  IconsStyle: { height: 20, width: 20 }
+});

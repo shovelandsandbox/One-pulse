@@ -1,0 +1,41 @@
+{
+    "id": "3221:1549271656333:1549271743:1549271780911",
+    "type": "VIDEO_CHAT",
+    "status": "completed",
+    "consultationTime": {
+        "date": "Feb 4, 2019 5:15:42 PM",
+        "startTime": "Feb 4, 2019 5:16:20 PM",
+        "endTime": "Feb 4, 2019 5:19:12 PM"
+    },
+    "doctor": {
+        "id": "72",
+        "name": "Dr John Doe (PRU UAT)",
+        "specialities": [
+            "gen"
+        ]
+    },
+    "prescription": {
+        "id": "3221:1549271656333:1549271743:1549271780911",
+        "medications": [
+            {
+                "medicine": {
+                    "name": "name"
+                },
+                "dosage": {
+                    "frequency": "string"
+                }
+            }
+        ]
+    },
+    "attributes": {
+        "allergies": "test",
+        "symptoms": "test",
+        "payment": "success",
+        "referralId": "id of referral",
+        "referralLetter": {
+            "department": "Cardio",
+            "hospitalName": "KPJ",
+            "referralNotes": "Cardio issue"
+        }
+    }
+}

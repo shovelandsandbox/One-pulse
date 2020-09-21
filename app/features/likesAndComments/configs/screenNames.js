@@ -1,0 +1,5 @@
+const LIKES_AND_COMMENTS = "LIKES_AND_COMMENTS";
+
+export default {
+  LIKES_AND_COMMENTS,
+};

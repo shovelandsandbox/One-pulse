@@ -1,0 +1,14 @@
+PRU_API_URL=wss://ws-apidev.pulse.prudentialcorporation-asia.com/ws
+PRU_API_HTTP_URL=https://apidev.pulse.prudentialcorporation-asia.com/api/v1_0_0
+PRU_API_KEY=0bab50605da7498db8d543ba3f15f989
+PACKAGE_ROOT_URL=https://apidev.pulse.prudentialcorporation-asia.com/api/v1_0_0/cms/pulse
+#PACKAGE_ROOT_URL=http://10.0.2.2:8887/ui-packages
+#PACKAGE_ROOT_URL=https://ashuacc.github.io/my-pages/ui-packages
+CMS_URL=https://apidev.pulse.prudentialcorporation-asia.com/api/v1_0_0/cms/
+BABYLON_APP_IDENTIFIER=PreprodPrudential
+OCR_BASE_URL = "https://vision-uat.prudential.com.sg/api/ocr/v2"
+OCR_API_KEY = "5Wz8BcFCG11HhNwNiexRnu7NC/ZOhDq+Wzx+W9+wYV0="
+BUILD_ENV=dev
+APP_GROUP_ID=group.prudential.pulse.uat
+PLUK_PRULEADS_SERVICE_URL=http://128.199.74.127
+ABI_FILTERS=arm64-v8a

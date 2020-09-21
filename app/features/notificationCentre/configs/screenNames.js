@@ -1,0 +1,5 @@
+const PULSE_NOTIFICATION = "PULSE_NOTIFICATION";
+
+export default {
+  PULSE_NOTIFICATION,
+};

@@ -1,0 +1,272 @@
+source 'https://github.com/CocoaPods/Specs.git'
+#source 'https://artifactory.intranet.asia/artifactory/api/pods/cocoapods/'
+require_relative '../node_modules/react-native-unimodules/cocoapods.rb'
+platform :ios, '11.0'
+plugin 'cocoapods-art', :sources => [
+'babylon-ios-sdk-cocoapods'
+]
+plugin 'cocoapods-user-defined-build-types'
+enable_user_defined_build_types!
+target 'HealthCareApp' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  # use_frameworks!
+  use_modular_headers!
+
+  pod 'React', :path => '../node_modules/react-native', :modular_headers => false, :subspecs => [
+    'Core',
+    'CxxBridge',
+    'DevSupport',
+    'RCTText',
+    'RCTNetwork',
+    'RCTWebSocket',
+    'RCTAnimation',
+    'RCTImage'
+  ]
+
+  pod 'yoga', :path => '../node_modules/react-native/ReactCommon/yoga'
+  pod 'DoubleConversion', :podspec => '../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec', :modular_headers => false
+  pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec', :modular_headers => false
+  pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec', :modular_headers => false
+  pod 'react-native-video', :path => '../node_modules/react-native-video/react-native-video.podspec'
+  pod 'react-native-signature-capture', :path => '../node_modules/react-native-signature-capture/react-native-signature-capture.podspec'
+
+  use_unimodules!
+
+  pod 'RNCAsyncStorage', :path => '../node_modules/@react-native-community/async-storage'
+
+  # pod 'RNFS', :path => '../node_modules/react-native-fs', :modular_headers => false
+
+  # pod 'RNSVG', :path => '../node_modules/react-native-svg', :modular_headers => false
+
+  # Pods for HealthCareApp
+  pod 'BabylonSDK', '1.1.0'
+  pod 'BabylonDigitalTwin', '1.1.0'
+  pod 'Crashlytics', '~> 3.14.0'
+  pod 'Fabric', '~> 1.10.2'
+  # pod 'Firebase', '~> 6.9.0'
+  # pod 'Firebase/Messaging'
+  # pod 'Firebase/Core'
+  # pod 'Firebase/Performance'
+  pod 'GoogleMaps', '3.7.0'
+  pod 'GooglePlaces'
+  # pod 'GoogleSignIn', '~> 4.3'
+  
+  # pod 'Firebase/Analytics'
+  # pod 'Firebase/DynamicLinks', '~> 6.9.0'
+  pod 'KeychainAccess', '~> 3.2.0'
+  pod 'ReactiveCocoa', '~> 9.0'
+  pod 'ReactiveFeedback', '0.6.0'
+  pod 'ReactiveSwift', '~> 5.0'
+  pod 'FBSDKCoreKit', '5.8.0'
+  pod 'FBSDKLoginKit', '5.8.0'
+  pod 'FBSDKShareKit', '5.6.0'
+  # pod 'Firebase/MLVision'
+  # pod 'Firebase/MLVisionFaceModel'
+  # pod 'FBSDKCoreKit', '~> 4.40.0'
+  # pod 'FBSDKLoginKit', '~> 4.40.0'
+  # pod 'FBSDKShareKit', '~> 4.40.0'
+  #   pod 'RNI18n', :path => '../node_modules/react-native-i18n'
+  # pod 'react-native-fbsdk', :path => '../node_modules/react-native-fbsdk'
+  # pod 'react-native-maps', :path => '../node_modules/react-native-maps'
+  pod 'PromiseKit'
+  pod 'Swinject'
+  pod 'AgoraRtcEngine_iOS'
+  pod 'Alamofire'
+  pod 'UtilityKit',:build_type => :static_framework
+ 
+
+  # pod 'ReactNativePermissions', :path => '../node_modules/react-native-permissions'
+  # pod 'OpenTok', '2.15.3'
+  pod 'SDWebImage', '~> 5.0'
+  pod 'TwilioVideo'
+  pod 'NodeMediaClient', '~> 2.7.11' 
+  pod 'RNShare', :path => '../node_modules/react-native-share'
+  pod 'RNImageMarker', :path => '../node_modules/react-native-image-marker'
+
+  # pod 'TextToSpeech', :path => '../node_modules/react-native-tts'
+  # pod 'react-native-keep-awake', :path => '../node_modules/react-native-keep-awake'
+
+end
+
+
+def change_lines_in_file(file_path, &change)
+  print "Fixing #{file_path}...\n"
+  
+  contents = []
+  
+  file = File.open(file_path, 'r')
+  file.each_line do | line |
+    contents << line
+  end
+  file.close
+  
+  File.open(file_path, 'w') do |f|
+    f.puts(change.call(contents))
+  end
+end
+
+#to ensure swift version 4.0 for all pods
+post_install do |installer|
+  fix_fb
+  fix_image_crop_picker
+  installer.pods_project.targets.each do |target|
+    if target.name == "React"
+      target.remove_from_project
+    end
+    if ['KeychainAccess','PromiseKit','Swinject','Alamofire','UtilityKit'].include? target.name
+      #       if ['KeychainAccess'].include? target.name
+      target.build_configurations.each do |config|
+        config.build_settings['SWIFT_VERSION'] = '4.2'
+      end
+    end
+  end
+  # installer.pods_project.targets.each do |target|
+  #   target.build_configurations.each do |config|
+  #     config.build_settings['SWIFT_VERSION'] = '4.2'
+  #   end
+  # end
+end
+
+
+def fix_fb
+  node_modules_path = '../node_modules'
+  patched_text = File.read("./RCTFBSDKLoginButtonManager.m.patch")
+  
+  File.open("#{node_modules_path}/react-native-fbsdk/ios/RCTFBSDK/login/RCTFBSDKLoginButtonManager.m", "w") {|file| file.puts patched_text}
+end
+
+def fix_image_crop_picker
+  node_modules_path = '../node_modules'
+  patched_text = File.read("./RCTIMAGECROPPICKERImageCropPicker.m.patch")
+  
+  File.open("#{node_modules_path}/react-native-image-crop-picker/ios/src/ImageCropPicker.m", "w") {|file| file.puts patched_text}
+end
+
+
+
+# installer.pods_project.targets.each do |target|
+#   if target.name == "React"
+#       target.remove_from_project
+#   end
+# end
+# installer.pods_project.targets.each do |target|
+#     if target.name == 'React'
+#         target.build_configurations.each do |config|
+#             if config.name == 'Debug'
+#                 config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] ||= ['RCT_DEBUG=1','RCT_DEV=1','RCT_NSASSERT=1']
+#             end
+#         end
+#     end
+# end
+
+
+# https://github.com/facebook/yoga/issues/711#issuecomment-381098373
+#   change_lines_in_file('./Pods/Target Support Files/yoga/yoga-umbrella.h') do |lines|
+#       lines.reject do | line |
+#           [
+#           '#import "Utils.h"',
+#           '#import "YGLayout.h"',
+#           '#import "YGNode.h"',
+#           '#import "YGNodePrint.h"',
+#           '#import "YGStyle.h"',
+#           '#import "Yoga-internal.h"',
+#           ].include?(line.strip)
+#       end
+#   end
+
+# # https://github.com/facebook/yoga/issues/711#issuecomment-374605785
+# change_lines_in_file('../node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceSizeMeasureMode.h') do |lines|
+#     unless lines[27].include?("#ifdef __cplusplus")
+#         lines.insert(27, "#ifdef __cplusplus")
+#         lines.insert(34, "#endif")
+#     end
+#     lines
+# end
+
+# # https://github.com/facebook/react-native/issues/13198
+#   change_lines_in_file('../node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h') do |lines|
+#       lines.map { |line| line.include?("#import <RCTAnimation/RCTValueAnimatedNode.h>") ? '#import "RCTValueAnimatedNode.h"' : line }
+#   end
+
+#   # # https://github.com/facebook/react-native/issues/16039
+#   change_lines_in_file('../node_modules/react-native/Libraries/WebSocket/RCTReconnectingWebSocket.m') do |lines|
+#       lines.map { |line| line.include?("#import <fishhook/fishhook.h>") ? '#import "fishhook.h"' : line }
+#   end
+
+# change_lines_in_file('../node_modules/react-native/React/Modules/RCTEventEmitter.h') do |lines|
+#   lines.map { |line| line.include?("#import <React/RCTBridge.h>") ? '#import "RCTBridge.h"' : line }
+# end
+# end
+
+# change_lines_in_file('../node_modules/expo-gl/ios/EXGL/EXGLObject.h') do |lines|
+#   lines.map { |line| line.include?("#import <EXGL-CPP/UEXGL.h>") ? '#import <EXGL_CPP/UEXGL.h>' : line}
+# end
+
+# change_lines_in_file('../node_modules/expo-gl/ios/EXGL/EXGLViewManager.m') do |lines|
+#   lines.map { |line| line.include?("#import <EXGL-CPP/UEXGL.h>") ? '#import <EXGL_CPP/UEXGL.h>' : line}
+# end
+
+# change_lines_in_file('../node_modules/expo-gl/ios/EXGL/EXGLView.m') do |lines|
+#   lines.map { |line| line.include?("#import <EXGL-CPP/UEXGL.h>") ? '#import <EXGL_CPP/UEXGL.h>' : line}
+# end
+
+# change_lines_in_file('../node_modules/expo-gl/ios/EXGL/EXGLView.h') do |lines|
+#   lines.map { |line| line.include?("#import <EXGL-CPP/UEXGL.h>") ? '#import <EXGL_CPP/UEXGL.h>' : line}
+# end
+
+# change_lines_in_file('../node_modules/expo-gl/ios/EXGL/EXGLContext.h') do |lines|
+#   lines.map { |line| line.include?("#import <EXGL-CPP/UEXGL.h>") ? '#import <EXGL_CPP/UEXGL.h>' : line}
+# end
+# change_lines_in_file('../node_modules/expo-gl/ios/EXGL/EXGLContext.m') do |lines|
+#   lines.map { |line| line.include?("#import <EXGL-CPP/UEXGL.h>") ? '#import <EXGL_CPP/UEXGL.h>' : line}
+# end
+# change_lines_in_file('../node_modules/expo-gl-cpp/cpp/EXiOSUtils.h') do |lines|
+#   lines.map { |line| line.include?("EXiOSOperatingSystemVersion EXiOSGetOperatingSystemVersion();") ? 'struct EXiOSOperatingSystemVersion EXiOSGetOperatingSystemVersion();' : line}
+# end
+change_lines_in_file('../node_modules/expo-image-loader/ios/EXImageLoader.podspec') do |lines|
+  lines.map { |line| line.include?("s.dependency 'React-Core'") ? "s.dependency 'React'" : line}
+end
+change_lines_in_file('../node_modules/expo-image-loader/ios/EXImageLoader/EXImageLoader.m') do |lines|
+  lines.map { |line| line.include?("#import <React/RCTImageLoaderProtocol.h>") ? "#import <React/RCTImageLoader.h>" : line}
+end
+
+change_lines_in_file('../node_modules/@unimodules/react-native-adapter/ios/UMReactNativeAdapter.podspec') do |lines|
+  lines.map { |line| line.include?("s.dependency 'React-Core'") ? "s.dependency 'React'" : line}
+end
+
+# change_lines_in_file('../node_modules/expo-face-detector/ios/EXFaceDetector.podspec') do |lines|
+#   lines.map { |line| line.include?("s.dependency 'Firebase/Core', firebase_sdk_version") ? "\ts.dependency 'Firebase/Core'" : line}
+# end
+# change_lines_in_file('../node_modules/expo-face-detector/ios/EXFaceDetector.podspec') do |lines|
+#   lines.map { |line| line.include?("s.dependency 'Firebase/MLVision', firebase_sdk_version") ? "\ts.dependency 'Firebase/MLVision'" : line}
+# end
+# change_lines_in_file('../node_modules/expo-face-detector/ios/EXFaceDetector.podspec') do |lines|
+#   lines.map { |line| line.include?("s.dependency 'Firebase/MLVisionFaceModel', firebase_sdk_version") ? "\ts.dependency 'Firebase/MLVisionFaceModel'" : line}
+# end
+# change_lines_in_file('../node_modules/expo-face-detector/ios/EXFaceDetector.podspec') do |lines|
+#   lines.map { |line| line.include?("s.requires_arc   = true") ? "\ts.requires_arc   = true\n\ts.static_framework = true" : line}
+# end
+
+change_lines_in_file('../node_modules/react-native-twilio-video-webrtc/ios/RNTwilioVideoWebRTC.xcodeproj/project.pbxproj') do |lines|
+  lines.map { |line| line.include?('"$(PROJECT_DIR)/../../../ios/Frameworks/**"') ? "\t\t\t\t\t\"${SRCROOT}/../../../ios/Pods/TwilioVideo/**\"" : line}
+end
+change_lines_in_file('../node_modules/react-native-twilio-video-webrtc/ios/RNTwilioVideoWebRTC.xcodeproj/project.pbxproj') do |lines|
+  lines.map { |line| line.include?('"$(PROJECT_DIR)/../../../ios/Pods/**",') ? "" : line}
+end
+change_lines_in_file('../node_modules/react-native-twilio-video-webrtc/ios/RNTwilioVideoWebRTC.xcodeproj/project.pbxproj') do |lines|
+  lines.map { |line| line.include?('"$(PROJECT_DIR)/../../../ios/Carthage/Build/**",') ? "" : line}
+end
+
+change_lines_in_file('../node_modules/react-native-twilio-video-webrtc/ios/RNTwilioVideoWebRTC.xcodeproj/project.pbxproj') do |lines|
+  lines.map { |line| line.include?('"$(SRCROOT)/../../../ios/Carthage/Build/**",') ? "" : line}
+end
+
+# change_lines_in_file('../node_modules/opentok-react-native/ios/OpenTokReactNative.xcodeproj/project.pbxproj') do |lines|
+#   lines.map { |line| line.include?('HEADER_SEARCH_PATHS') ? "\t\t\t\tFRAMEWORK_SEARCH_PATHS = (\n\t\t\t\t\t\"${SRCROOT}/../../../ios/Pods/OpenTok/**\"\n\t\t\t\t);\n\t\t\t\tHEADER_SEARCH_PATHS=(" : line}
+# end
+
+target 'PulseBroadcaster' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  # use_frameworks!
+  pod 'TwilioVideo'
+end

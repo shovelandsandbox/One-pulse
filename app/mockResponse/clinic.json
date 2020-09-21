@@ -1,0 +1,2610 @@
+[
+    {
+        "id": "225",
+        "name": "KLINIK MEDIVIRON SDN BHD",
+        "type": "CLINIC",
+        "timing": "MON-SUN : 8.00AM-7.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60378758666"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60378772078 "
+            }
+        },
+        "address": {
+            "line1": "NO 2 JLN SS21/12 SEA PARK, \n",
+            "line2": "PETALING JAYA,",
+            "line3": "46300  SELANGOR",
+            "latitude": 3.108814,
+            "longitude": 101.622991
+        }
+    },
+    {
+        "id": "233",
+        "name": "KLINIK GAN DAN LIM",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-9.30PM\n\nSAT : 8.30AM - 3.00PM\n\nSUN/PH : 9.00AM-9.30PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60392747139"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60392748066 "
+            }
+        },
+        "address": {
+            "line1": "No 12 Jln Pandan Indah 1/18 Tmn Pandan Indah",
+            "line2": "CHERAS",
+            "line3": "55100 KUALA LUMPUR",
+            "latitude": 3.130334,
+            "longitude": 101.751781
+        }
+    },
+    {
+        "id": "236",
+        "name": "KLINIK MEDI UK",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.00AM-6.00PM\n\nSAT-SUN : 8.00AM-2.00PM\n\nPH : CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60392221678"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60392222678 "
+            }
+        },
+        "address": {
+            "line1": "494 \n",
+            "line2": "JLN PUDU",
+            "line3": "55100 KUALA LUMPUR",
+            "latitude": 3.133753,
+            "longitude": 101.713966
+        }
+    },
+    {
+        "id": "364",
+        "name": "POLIKLINIK VIJAY (KINRARA) SDN BHD",
+        "type": "CLINIC",
+        "timing": "MON-SUN & PH: 7.30AM-11.30PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60380751550"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60380751550 "
+            }
+        },
+        "address": {
+            "line1": "23A JLN TK 1/11A TAMAN KINRARA SEK 1\nBATU 7/12 JALAN PUCHONG, \n\n",
+            "line2": "PUCHONG,",
+            "line3": "47100 SELANGOR\n ",
+            "latitude": 3.063934,
+            "longitude": 101.648503
+        }
+    },
+    {
+        "id": "240",
+        "name": "LYFE CLINIC",
+        "type": "CLINIC",
+        "timing": "MON-SAT : 9.00AM-7.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60377332671"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "-"
+            }
+        },
+        "address": {
+            "line1": "G27 GRD FLR BLK A DAMANSARA INTAN\nNO 1 SS20/27, \n",
+            "line2": "PETALING JAYA",
+            "line3": "47400 , SELANGOR",
+            "latitude": 3.130177,
+            "longitude": 101.6289885
+        }
+    },
+    {
+        "id": "370",
+        "name": "KLINIK MEDIJAYA",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-9.30PM\n\nSAT : 8.30AM-5.00PM\n\nSUN : 9.00AM-1.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60377277201"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60377278312"
+            }
+        },
+        "address": {
+            "line1": "38 JLN SS 21/39 DAMANSARA UTAMA, \n",
+            "line2": "PETALING JAYA,",
+            "line3": "47400  SELANGOR",
+            "latitude": 3.135747,
+            "longitude": 101.621509
+        }
+    },
+    {
+        "id": "117",
+        "name": "POLIKLINIK CHEN",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 10.00AM-10.00PM\n\nSAT-SUN : 10.00AM-1.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60379833218"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60379824900"
+            }
+        },
+        "address": {
+            "line1": "16 JLN AWAN HIJAU TMN OUG 5TH MILE \n\n",
+            "line2": "JLN KLANG LAMA",
+            "line3": "58200 KUALA LUMPUR",
+            "latitude": 3.0818,
+            "longitude": 101.67021
+        }
+    },
+    {
+        "id": "246",
+        "name": "POLIKLINIK PLAZA DAMANSARA SDN BHD",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 9.00AM-9.00PM\n\nSAT : 10.00AM-4.00PM\n\nSUN/PH: CLOSED\n\n",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60320947507"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60320936262 "
+            }
+        },
+        "address": {
+            "line1": "21-G MEDAN SETIA 1\nPLAZA DAMANSARA \n",
+            "line2": "BUKIT DAMANSARA",
+            "line3": "50490 KUALA LUMPUR",
+            "latitude": 3.149778,
+            "longitude": 101.65212
+        }
+    },
+    {
+        "id": "247",
+        "name": "KLINIK DAN SURGERI DANAU DESA",
+        "type": "CLINIC",
+        "timing": "MON-SUN : 8.30AM-10.30PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60379872877"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60379875199 "
+            }
+        },
+        "address": {
+            "line1": "No 16 Jln 5/109f Danau Plaza 2Tmn Danau Desa, Jalan Klang Lama",
+            "line2": "Sungai Besi",
+            "line3": "58100 KUALA LUMPUR",
+            "latitude": 3.099215,
+            "longitude": 101.686951
+        }
+    },
+    {
+        "id": "122",
+        "name": "KLINIK M L WONG",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-5.00PM\n\nSAT : 8.30AM-12.30PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60377288073"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60377288073"
+            }
+        },
+        "address": {
+            "line1": "123G JLN SS 21/37 , \n",
+            "line2": "DAMANSARA UTAMA, PETALING JAYA,",
+            "line3": "47400  SELANGOR",
+            "latitude": 3.133579,
+            "longitude": 101.6239
+        }
+    },
+    {
+        "id": "255",
+        "name": "KLINIK J D",
+        "type": "CLINIC",
+        "timing": "MON-FRI: 9.00AM-9.00PM\n\nSAT: 9.00AM-1.00PM\n\nSUN/PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60392820655"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60392820655 "
+            }
+        },
+        "address": {
+            "line1": "31-G JLN PANDAN 3/10 \n",
+            "line2": "PANDAN JAYA",
+            "line3": "55100 KUALA LUMPUR",
+            "latitude": 3.13139,
+            "longitude": 101.7391
+        }
+    },
+    {
+        "id": "127",
+        "name": "KLINIK WU DAN TANGLIM",
+        "type": "CLINIC",
+        "timing": "DAILY/PH: 8.30AM-10.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60377828255"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60377859295 "
+            }
+        },
+        "address": {
+            "line1": "72 JLN OTHMAN, \n",
+            "line2": "PETALING JAYA",
+            "line3": "46000 , SELANGOR",
+            "latitude": 3.086598,
+            "longitude": 101.648339
+        }
+    },
+    {
+        "id": "256",
+        "name": "KLINIK MEGA SDN BHD",
+        "type": "CLINIC",
+        "timing": "MON-FRI: 8.00AM-9.00PM\n\nSAT: 9.00AM-8.00PM\n\nSUN/PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60390573969"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "-"
+            }
+        },
+        "address": {
+            "line1": "76 JLN RADIN TENGAH \n",
+            "line2": "SRI PETALING",
+            "line3": "57000 KUALA LUMPUR",
+            "latitude": 3.068507,
+            "longitude": 101.691028
+        }
+    },
+    {
+        "id": "1",
+        "name": "KLINIK NEGARA",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 9.00AM-6.00PM\n\nSAT : 9.00AM-1.00PM\n\nSUN/PH : 10.00AM-1.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60340410700"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60340432137 "
+            }
+        },
+        "address": {
+            "line1": "68 \n",
+            "line2": "JLN PUTRA",
+            "line3": "50350 KUALA LUMPUR",
+            "latitude": 3.16681,
+            "longitude": 101.695239
+        }
+    },
+    {
+        "id": "2",
+        "name": "KLINIK NG",
+        "type": "CLINIC",
+        "timing": "MON-SAT : 8.30AM-9.30PM\n\nSUN/PH : 10.30AM-9.30PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60377277164"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "-"
+            }
+        },
+        "address": {
+            "line1": "108 JLN SS21/35 DAMANSARA UTAMA, \n",
+            "line2": " PETALING JAYA",
+            "line3": "47400, SELANGOR",
+            "latitude": 3.134214,
+            "longitude": 101.6244
+        }
+    },
+    {
+        "id": "130",
+        "name": "KUMPULAN MEDIC",
+        "type": "CLINIC",
+        "timing": "MON-FRI: 8.30AM-1.00PM, 2.00PM-4.30PM, 7.00PM-9.00PM\n\nSAT: 8.30AM-4.30PM\n\nPH/SUN: 9.00AM-12.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60342528219"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60342528216  "
+            }
+        },
+        "address": {
+            "line1": "71-M JLN MAMANDA 1 AMPANG POINT, \n",
+            "line2": "AMPANG,",
+            "line3": "68000  SELANGOR",
+            "latitude": 3.15805,
+            "longitude": 101.752285
+        }
+    },
+    {
+        "id": "3",
+        "name": "DRS CATTERALL, KHOO, RAJA MALEK DAN RAKAN2",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.00AM-7.00PM\n\nSAT : 8.00AM-12.00NOON\n\nSUN/PH : 9.00AM-11.30AM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60377821025"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60377812326"
+            }
+        },
+        "address": {
+            "line1": "47 JLN OTHMAN, \n",
+            "line2": "PETALING JAYA",
+            "line3": "46000, SELANGOR",
+            "latitude": 3.087259,
+            "longitude": 101.647702
+        }
+    },
+    {
+        "id": "4",
+        "name": "DRS CATTERALL, KHOO, RAJA MALEK DAN RAKAN2",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-12.30PM, 2.00PM-4.30PM\n\nSAT : 8.30AM-12.00NOON\n\nSUN/PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60320783200"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60320700131"
+            }
+        },
+        "address": {
+            "line1": "Lobby Floor Bangunan Ming ",
+            "line2": " Jln Bkt Nanas,Jalan Raja Chulan",
+            "line3": "50250 Kuala Lumpur",
+            "latitude": 3.150213,
+            "longitude": 101.69855
+        }
+    },
+    {
+        "id": "261",
+        "name": "LIFE CARE DIAGNOSTIC MEDICAL CENTRE SDN BHD",
+        "type": "CLINIC",
+        "timing": "MON - FRI: 8.00AM - 5.00PM\n\nSAT: 8.00AM - 1.00PM\n\nSUN/PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60322413610"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60322413617"
+            }
+        },
+        "address": {
+            "line1": "1st FLOOR WISMA LIFE CARE, \n5, JALAN KERINCHI, \n\n",
+            "line2": "BANGSAR SOUTH, ",
+            "line3": "59200 KUALA LUMPUR",
+            "latitude": 3.110109,
+            "longitude": 101.663435
+        }
+    },
+    {
+        "id": "5",
+        "name": "DRS CATTERALL, KHOO, RAJA MALEK DAN RAKAN2 (Jalan Raja Laut)",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-12.00MIDNITE\n\nSAT : 8.30AM-12.00NOON",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60326937670"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60326937669"
+            }
+        },
+        "address": {
+            "line1": "2nd Floor Wisma Sime Darby",
+            "line2": "Jalan Raja Laut",
+            "line3": "50350 Kuala Lumpur",
+            "latitude": 3.161751,
+            "longitude": 101.694949
+        }
+    },
+    {
+        "id": "6",
+        "name": "DRS CATTERALL, KHOO, RAJA MALEK DAN RAKAN2",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.00AM-4.30PM\n\nSAT : 8.00AM-12.00NOON\n\nSUN/PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60322730344"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60322730344, +60342576094"
+            }
+        },
+        "address": {
+            "line1": "Suite 3b-3-6 Level 3 Blk 3b Plaza Sentral, Jln Stesen Sentral",
+            "line2": "Kl Sentral",
+            "line3": "50470, Kuala Lumpur ",
+            "latitude": 3.13257,
+            "longitude": 101.684421
+        }
+    },
+    {
+        "id": "647",
+        "name": "KLINIK CHIN CHEE YEONG",
+        "type": "CLINIC",
+        "timing": "\"MON-FRI: 9.00AM-1.00PM, 2.00PM-8.00PM\n\nSAT: 9.00AM-1.00PM, 2.00PM-7.00PM\n\nSUN: 9.00AM-1.00PM\n\n1ST AND 3RD FRIDAY OF THE MONTH: CLOSED\n\nPH: CLOSED\"\n\n",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60362413554"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60362413554"
+            }
+        },
+        "address": {
+            "line1": "NO 32A, JALAN 6/18A,  TAMAN MASTIARA,  BATU 5 1/2, OFF ",
+            "line2": "JALAN IPOH ",
+            "line3": " 51200 KUALA LUMPUR",
+            "latitude": 3.211258,
+            "longitude": 101.6731249
+        }
+    },
+    {
+        "id": "7",
+        "name": "DRS CATTERALL, KHOO, RAJA MALEK DAN RAKAN2",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.00AM-4.30PM\n\nSAT : 8.00AM-12.00NOON",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60342535949"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60320268868 "
+            }
+        },
+        "address": {
+            "line1": "Lot 6b Level 2 Great Eastern Mall 303 Jalan Ampang",
+            "line2": " Jalan Ampang",
+            "line3": "50450 Kuala Lumpur ",
+            "latitude": 3.160319,
+            "longitude": 101.73692
+        }
+    },
+    {
+        "id": "8",
+        "name": "KLINIK PAKAR PERUBATAN CHAN",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-4.30PM\n\nSAT : 8.30AM-12.30PM\n\nSUN & PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60340229748"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60340229748"
+            }
+        },
+        "address": {
+            "line1": "SUITE 1 5TH FLR \nKPJ TAWAKKAL HOSPITAL \nNO 1, \n",
+            "line2": "Jalan Pahang",
+            "line3": "53000 KUALA LUMPUR",
+            "latitude": 3.176708,
+            "longitude": 101.698712
+        }
+    },
+    {
+        "id": "9",
+        "name": "KLINIK CHONG & RAKAN RAKAN",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-10.00PM\n\nSAT : 9.00AM-9.00PM\n\nSUN/PH : 9.00AM-1.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60320954148"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60320946242"
+            }
+        },
+        "address": {
+            "line1": "10, Lrg Ara Kiri 2 Lucky Garden ",
+            "line2": "Bangsar",
+            "line3": "59100 KUALA LUMPUR",
+            "latitude": 3.127442,
+            "longitude": 101.669699
+        }
+    },
+    {
+        "id": "11",
+        "name": "DR MOHAMED MYDIN & RAKAN RAKAN SDN BHD",
+        "type": "CLINIC",
+        "timing": "MON - FRI : 8.00AM-7.00PM\n\nSAT, SUN & PH : 9.00AM-1.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60342513790"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60342513790"
+            }
+        },
+        "address": {
+            "line1": "No 383c Jalan Ampang",
+            "line3": "55000 Kuala Lumpur",
+            "latitude": 3.158302,
+            "longitude": 101.747971
+        }
+    },
+    {
+        "id": "12",
+        "name": "KLINIK GOH & RAKAN RAKAN",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 9.00AM-1.00PM, 2.00PM-5.00PM\n\nSAT : 9.30AM-12NOON\n\n1ST SAT & PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60321410362"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60321410362"
+            }
+        },
+        "address": {
+            "line1": "A-1205 12-A FLR WISMA LIM FOO YONG\n86 \n",
+            "line2": "JLN RAJA CHULAN",
+            "line3": "50200 KUALA LUMPUR",
+            "latitude": 3.150417,
+            "longitude": 101.709234
+        }
+    },
+    {
+        "id": "13",
+        "name": "KLINIK UNI-MED",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 9.00AM-5.00PM\n\nSAT : 9.00AM-1.00PM\n\nSUN/PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+6032026265"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60320262646"
+            }
+        },
+        "address": {
+            "line1": "Lot 1.01(1st Floor),  Wisma Cosway88 ",
+            "line2": "JLN RAJA CHULAN",
+            "line3": "50200 KUALA LUMPUR",
+            "latitude": 3.150605,
+            "longitude": 101.711439
+        }
+    },
+    {
+        "id": "15",
+        "name": "KELINIK DR KHOO KAH LIN",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.00AM-1.00PM, 2.00PM-5.00PM\n\nSAT/ PH : 8.00AM-1.00PM\n\nSUN: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60326987301"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60326987939"
+            }
+        },
+        "address": {
+            "line1": "25 Jln Medan Tuanku, ",
+            "line2": "Off Jalan Tunku Abdul Rahman",
+            "line3": "50300 KUALA LUMPUR",
+            "latitude": 3.158176,
+            "longitude": 101.697323
+        }
+    },
+    {
+        "id": "144",
+        "name": "KLINIK BAKTI",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 9.00AM-6.00PM\n\nSAT : 10.00AM-1.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60379577118"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60379577118 "
+            }
+        },
+        "address": {
+            "line1": "8a-2 Jln 14/20, ",
+            "line2": "PETALING JAYA",
+            "line3": "46100 SELANGOR",
+            "latitude": 3.109655,
+            "longitude": 101.636133
+        }
+    },
+    {
+        "id": "17",
+        "name": "DR LIM MEDICAL CLINIC",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 9.30AM-6.00PM\n\nSAT : 9.30AM-2.00PM\n\nSUN & PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60322825737"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60322825735"
+            }
+        },
+        "address": {
+            "line1": "17-2 2nd Floor, Signature Office The Boulevard",
+            "line2": "Mid Valley City Lingkaran Syed Putra,Bangsar",
+            "line3": "58000 Kuala Lumpur",
+            "latitude": 3.117441,
+            "longitude": 101.677877
+        }
+    },
+    {
+        "id": "18",
+        "name": "KLINIK ASIA",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 10.30AM-5.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60321425814"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "-"
+            }
+        },
+        "address": {
+            "line1": "88-A Jln Alor ",
+            "line2": "Bukit Bintang",
+            "line3": "50200 KUALA LUMPUR",
+            "latitude": 3.146407,
+            "longitude": 101.7095
+        }
+    },
+    {
+        "id": "20",
+        "name": "KLINIK HARMONY",
+        "type": "CLINIC",
+        "timing": "MON, TUE, WED, FRI: 9.00AM-5.00PM\n\nTHU: 9.00AM-1.00PM\n\nSAT: 9.00AM-12.00PM\n\nSUN & PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60392822833"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "-"
+            }
+        },
+        "address": {
+            "line1": "8-3-3 BLK 8 QUEEN'S AVENUE\nJLN SHELLEY (OFF JLN CHERAS)",
+            "line2": "CHERAS",
+            "line3": "\n55100 KUALA LUMPUR",
+            "latitude": 3.13006,
+            "longitude": 101.721296
+        }
+    },
+    {
+        "id": "149",
+        "name": "KLINIK WONG",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.00AM-5.00PM\n\nSAT : 8.00AM-12.30PM\n\nSUN/PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60378766145"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60378766145 "
+            }
+        },
+        "address": {
+            "line1": "NO 17 JLN 21/11A TMN SEA PARK, \n",
+            "line2": "PETALING JAYA",
+            "line3": "46300  SELANGOR",
+            "latitude": 3.109956,
+            "longitude": 101.623014
+        }
+    },
+    {
+        "id": "22",
+        "name": "KUMPULAN MEDIC",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-1.00PM, 2.00PM-5.00PM\n\nSAT : 8.30AM-1.00PM\n\nSUN/PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60320781532"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60320315214"
+            }
+        },
+        "address": {
+            "line1": "47 , \nGROUND FLOOR GHEE HONG BUILDING\n",
+            "line2": "JLN AMPANG",
+            "line3": "50450 KUALA LUMPUR",
+            "latitude": 3.151314,
+            "longitude": 101.698034
+        }
+    },
+    {
+        "id": "23",
+        "name": "KUMPULAN MEDIC",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-5.00PM\n\nSAT : 8.30AM-1.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60321418229"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60321458629"
+            }
+        },
+        "address": {
+            "line1": "LEVEL 5, WISMA BOUSTEAD, \nNO 71, \n",
+            "line2": "JALAN RAJA CHULAN",
+            "line3": "50200 KUALA LUMPUR",
+            "latitude": 3.150248,
+            "longitude": 101.7094
+        }
+    },
+    {
+        "id": "24",
+        "name": "KUMPULAN MEDIC",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-5.00PM\n\nSAT : 8.30AM-1.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60326921952"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "-"
+            }
+        },
+        "address": {
+            "line1": "MZ 05 MEZZANINE FLR(1A) BGN KWSP \nNO 5  \n",
+            "line2": "JLN RAJA LAUT",
+            "line3": "50350 KUALA LUMPUR",
+            "latitude": 3.153754,
+            "longitude": 101.694694
+        }
+    },
+    {
+        "id": "25",
+        "name": "KUMPULAN MEDIC",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-1.00PM, 2.00PM-9.00PM\n\nSAT : 8.30AM-1.00PM, 2.00PM-4.00PM\n\nSUN/ PH : 9.00AM-12.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60377284955"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "-"
+            }
+        },
+        "address": {
+            "line1": "NO 78 JLN SS 21/35 DAMANSARA UTAMA, \n",
+            "line2": "PETALING JAYA",
+            "line3": "47400 , SELANGOR",
+            "latitude": 3.135234,
+            "longitude": 101.6242
+        }
+    },
+    {
+        "id": "154",
+        "name": "KLINIK TEMPLER SDN BHD",
+        "type": "CLINIC",
+        "timing": "DAILY/PH: 8.00AM-10.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60391313231"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60391318174 "
+            }
+        },
+        "address": {
+            "line1": "46 JLN MIDAH BESAR \n",
+            "line2": "TMN MIDAH CHERAS",
+            "line3": "56000 KUALA LUMPUR",
+            "latitude": 3.101404,
+            "longitude": 101.7327
+        }
+    },
+    {
+        "id": "27",
+        "name": "KUMPULAN MEDIC",
+        "type": "CLINIC",
+        "timing": "MON-FRI: 8.30AM-1.00PM, 2.00PM-4.30PM, 7.00PM-9.00PM\n\nSAT: 8.30AM-1.00PM, 2.00PM-4.00PM\n\nSUN/PH: 9.00AM-12.00NOON",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60379569331"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60379578032"
+            }
+        },
+        "address": {
+            "line1": "42A JLN SULTAN 52/4,\n",
+            "line2": "PETALING JAYA",
+            "line3": "46200 , SELANGOR",
+            "latitude": 3.099978,
+            "longitude": 101.646243
+        }
+    },
+    {
+        "id": "29",
+        "name": "KLINIK NG & LEE",
+        "type": "CLINIC",
+        "timing": "24 HOURS",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60392225989"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60392220752"
+            }
+        },
+        "address": {
+            "line1": "462-464\n",
+            "line2": "JALAN PUDU",
+            "line3": "55100 KUALA LUMPUR",
+            "latitude": 3.134514,
+            "longitude": 101.713073
+        }
+    },
+    {
+        "id": "157",
+        "name": "KLINIK MERDEKA SDN BHD",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 9.00AM-9.00PM\n\nSAT : 9.00AM-1.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60392823758"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "-"
+            }
+        },
+        "address": {
+            "line1": "NO 31 JLN PERDANA 4/5 \n\n",
+            "line2": "PANDAN PERDANA",
+            "line3": "55300 KUALA LUMPUR",
+            "latitude": 3.120391,
+            "longitude": 101.743461
+        }
+    },
+    {
+        "id": "30",
+        "name": "KLINIK NG & LEE",
+        "type": "CLINIC",
+        "timing": "MON-SUN/PH : 8.00AM-9.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60342560764"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60342560764"
+            }
+        },
+        "address": {
+            "line1": "337 (4TH MILE)\n",
+            "line2": "JLN AMPANG",
+            "line3": "50450 KUALA LUMPUR",
+            "latitude": 3.158535,
+            "longitude": 101.747351
+        }
+    },
+    {
+        "id": "32",
+        "name": "KLINIK NG & LEE",
+        "type": "CLINIC",
+        "timing": "MON-SAT : 8.30AM-10.00PM\n\nSUN : 8.30AM-1.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60392852820"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60392852820"
+            }
+        },
+        "address": {
+            "line1": "265 JLN MAHKOTA \n",
+            "line2": "TMN MALURI CHERAS",
+            "line3": "55100 KUALA LUMPUR",
+            "latitude": 3.129712,
+            "longitude": 101.73169
+        }
+    },
+    {
+        "id": "35",
+        "name": "KLINIK T A R",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 9.00AM-5.00PM\n\nSAT : 9.00AM-1.00PM\n\nSUN & PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60326988122"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60326944150 "
+            }
+        },
+        "address": {
+            "line1": "NO 329 ",
+            "line2": "JLN TUANKU ABDUL RAHMAN",
+            "line3": "50100 KUALA LUMPUR",
+            "latitude": 3.1605,
+            "longitude": 101.69714
+        }
+    },
+    {
+        "id": "36",
+        "name": "KLINIK ROSMAN",
+        "type": "CLINIC",
+        "timing": "MON-SAT : 8.30AM-1.00PM\n\nSUN/PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60326981585"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60326981585 "
+            }
+        },
+        "address": {
+            "line1": "NO 17 JLN HAJI HASHIM \nOFF JLN RAJA MUDA ABD AZIZ, \n",
+            "line2": "KPG BARU",
+            "line3": "50300 KUALA LUMPUR",
+            "latitude": 3.167966,
+            "longitude": 101.7096
+        }
+    },
+    {
+        "id": "294",
+        "name": "POLIKLINIK SRI PERMAI",
+        "type": "CLINIC",
+        "timing": "MON-SUN : 24 HRS",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60341438250"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60341438250"
+            }
+        },
+        "address": {
+            "line1": "42 JLN MEGAN SETAPAK\n\n",
+            "line2": "TMN MEGAN SRI RAMPAI",
+            "line3": "53300  KUALA LUMPUR",
+            "latitude": 3.187672,
+            "longitude": 101.7047
+        }
+    },
+    {
+        "id": "38",
+        "name": "KLINIK TAN & APPADURAY",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 10.00AM-9.00PM\n\nSAT-SUN : 10.00AM-2.00PM\n\nPH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60321442025"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60321442026"
+            }
+        },
+        "address": {
+            "line1": "S2(A) PAMPER FLR STARHILL GALLERY\n181 \n",
+            "line2": "JLN BUKIT BINTANG",
+            "line3": "55100 KUALA LUMPUR",
+            "latitude": 3.147988,
+            "longitude": 101.713413
+        }
+    },
+    {
+        "id": "295",
+        "name": "POLIKLINIK SRI PERMAI",
+        "type": "CLINIC",
+        "timing": "MON-SUN : 24 HRS",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60320722239"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60320722239"
+            }
+        },
+        "address": {
+            "line1": "2ND FLR UBN TOWER LETTER BOX 67\n10\n",
+            "line2": " JLN P RAMLEE",
+            "line3": "50250 KUALA LUMPUR",
+            "latitude": 3.153386,
+            "longitude": 101.7049
+        }
+    },
+    {
+        "id": "39",
+        "name": "KLINIK TAN",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 9.00AM - 6.00PM\n\nSAT : 9.00AM-4.00PM\n\nSUN & PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60340433563"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60340433563"
+            }
+        },
+        "address": {
+            "line1": "443 3RD MILE \n",
+            "line2": "JLN IPOH",
+            "line3": "51200 KUALA LUMPUR",
+            "latitude": 3.180277,
+            "longitude": 101.6833
+        }
+    },
+    {
+        "id": "296",
+        "name": "POLIKLINIK SRI PERMAI",
+        "type": "CLINIC",
+        "timing": "MON-SUN : 24 HRS",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60379601975"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60379601975"
+            }
+        },
+        "address": {
+            "line1": "D-9-LG1 JAYA ONE\nJLN UNIVERSITI \n",
+            "line2": "PETALING JAYA",
+            "line3": "46200 , SELANGOR",
+            "latitude": 3.118191,
+            "longitude": 101.635277
+        }
+    },
+    {
+        "id": "40",
+        "name": "POLIKLINIK TAMAN CHERAS",
+        "type": "CLINIC",
+        "timing": "MON-SAT : 8.30AM-12.30PM\n\n2.00PM-10.00PM\n\nSUN: 8.30AM - 12.30PM\n\nPH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60391314127"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60391314127"
+            }
+        },
+        "address": {
+            "line1": "10 JLN CENGKIH TMN \n",
+            "line2": "CHERAS",
+            "line3": "56100 KUALA LUMPUR",
+            "latitude": 3.100249,
+            "longitude": 101.742352
+        }
+    },
+    {
+        "id": "41",
+        "name": "KLINIK TAN",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 9.00AM-5.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60340427725"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60340416396"
+            }
+        },
+        "address": {
+            "line1": "96 \n",
+            "line2": " Jalan Ipoh",
+            "line3": "51200 KUALA LUMPUR",
+            "latitude": 3.169392,
+            "longitude": 101.695475
+        }
+    },
+    {
+        "id": "169",
+        "name": "TWIN TOWER MEDICAL CENTRE KLCC",
+        "type": "CLINIC",
+        "timing": "MON-FRI: 9.00AM-3.00PM\n\nSAT/SUN/PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60323823500"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60323829000 "
+            }
+        },
+        "address": {
+            "line1": "LOT LC-402-404, \n4TH FLOOR,\n",
+            "line2": "SURIA KLCC",
+            "line3": "50088 KUALA LUMPUR",
+            "latitude": 3.158059,
+            "longitude": 101.712377
+        }
+    },
+    {
+        "id": "42",
+        "name": "DRS YOUNG, NEWTON & RAKAN RAKAN",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-5.00PM\n\nSAT : 8.30AM-1.00PM\n\n",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60326982967"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60326988825 "
+            }
+        },
+        "address": {
+            "line1": "LEVEL 5, MENARA MULTI-PURPOSE CAPITAL SQUARE NO 8, ",
+            "line2": "JALAN MUNSHI ABDULLAH",
+            "line3": "50100 Kuala Lumpur",
+            "latitude": 3.154796,
+            "longitude": 101.699281
+        }
+    },
+    {
+        "id": "43",
+        "name": "DRS YOUNG, NEWTON & RAKAN RAKAN",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-5.00PM\n\nSAT : 8.30AM-1.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60320933651"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "-"
+            }
+        },
+        "address": {
+            "line1": "Level 2-1 Tower Block Menara Milenium Jln Damanlela ",
+            "line2": "Pusat Bandar Damansara",
+            "line3": "50490 Kuala Lumpur",
+            "latitude": 3.147169,
+            "longitude": 101.6626
+        }
+    },
+    {
+        "id": "44",
+        "name": "DRS YOUNG, NEWTON & RAKAN RAKAN",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-5.00PM\n\nSAT : 8.30AM-1.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60322734928"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "-"
+            }
+        },
+        "address": {
+            "line1": "Suite 3a Level 3 Blk 3b Plaza Sentral, Jln Stesen Sentral 5 ",
+            "line2": "KL Sentral",
+            "line3": "50470, Kuala Lumpur ",
+            "latitude": 3.13257,
+            "longitude": 101.684421
+        }
+    },
+    {
+        "id": "46",
+        "name": "DRS YOUNG, NEWTON & RAKAN RAKAN",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-5.00PM\n\n          6.00PM-8.00PM\n\nSAT : 8.30AM-2.00PM\n\n",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60379569400"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60379562553"
+            }
+        },
+        "address": {
+            "line1": "No 48 Jln 52/4, ",
+            "line2": "Petaling Jaya",
+            "line3": "46050,Selangor",
+            "latitude": 3.099978,
+            "longitude": 101.646243
+        }
+    },
+    {
+        "id": "174",
+        "name": "POLIKLINIK LAI",
+        "type": "CLINIC",
+        "timing": "MON-SAT: 9.30AM-6.00PM\n\nSUN/PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60322721730"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60322721730 "
+            }
+        },
+        "address": {
+            "line1": "NO 8 JLN THAMBAPILLAI \nOFF JLN TUN SAMBATHAN, \n",
+            "line2": "BRICKFIELDS",
+            "line3": "50470  KUALA LUMPUR",
+            "latitude": 3.132786,
+            "longitude": 101.688744
+        }
+    },
+    {
+        "id": "47",
+        "name": "S P SPECIALIST CLINIC",
+        "type": "CLINIC",
+        "timing": "MON - FRI : 8:30 AM - 1:00PM, 4:00PM - 7:30PM\n\nSAT : 8:30AM - 1:00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60377291122"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60377291122"
+            }
+        },
+        "address": {
+            "line1": "32 JLN SS 21/62 DAMANSARA UTAMA, \n",
+            "line2": "PETALING JAYA,",
+            "line3": "47400  SELANGOR",
+            "latitude": 3.132468,
+            "longitude": 101.62294
+        }
+    },
+    {
+        "id": "175",
+        "name": "KLINIK DESA, DESA PETALING",
+        "type": "CLINIC",
+        "timing": "MON-SAT : 9.00AM-2.00PM, 4.30PM-9.30PM\n\nSUN/PH : 9.00AM-1.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60390587623"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60390587623 "
+            }
+        },
+        "address": {
+            "line1": "21 JLN 3/125D ",
+            "line2": "DESA PETALING",
+            "line3": "57100 KUALA LUMPUR",
+            "latitude": 3.082934,
+            "longitude": 101.705211
+        }
+    },
+    {
+        "id": "48",
+        "name": "DR AMIR ABBAS-KMA SDN BHD KLINIK MEDICAL ASSOCIATES",
+        "type": "CLINIC",
+        "timing": "MON-FRI & SUN : 9.00AM-9.30PM\n\nSAT : 9.00AM-1.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60378764790"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60378769621"
+            }
+        },
+        "address": {
+            "line1": "19 Jalan 21/12 ",
+            "line2": "Sea Park, Petaling Jaya",
+            "line3": "46300, Selangor",
+            "latitude": 3.108827,
+            "longitude": 101.623637
+        }
+    },
+    {
+        "id": "51",
+        "name": "DR AMIR ABBAS-KMA SDN BHDKLINIK MEDICAL ASSOCIATES",
+        "type": "CLINIC",
+        "timing": "MON-FRI & SUN : 9.00AM-9.30PM\n\nSAT : 9.00AM-1.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60378743073"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "-"
+            }
+        },
+        "address": {
+            "line1": "A-01-12b Blok A Jalan 224",
+            "line2": "Taman Impian Baiduri, Petaling Jaya",
+            "line3": "46100 Selangor",
+            "latitude": 3.094328,
+            "longitude": 101.6217
+        }
+    },
+    {
+        "id": "308",
+        "name": "POLIKLINIK MEDIMAX",
+        "type": "CLINIC",
+        "timing": "MON-SAT: 8.30AM-9.00PM\n\nSUN/PH: 9.00AM-3.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60379575485"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60379575843 "
+            }
+        },
+        "address": {
+            "line1": "944 GRD FLR JLN 17/38 HAPPY GARDEN, \n",
+            "line2": "PETALING JAYA",
+            "line3": "47400 , SELANGOR",
+            "latitude": 3.128337,
+            "longitude": 101.634358
+        }
+    },
+    {
+        "id": "52",
+        "name": "DR AMIR ABBAS-KMA SDN BHD KLINIK MEDICAL ASSOCIATES",
+        "type": "CLINIC",
+        "timing": "MON-FRI: 8.30AM-1.00PM, 2.00PM-5.00PM\n\nSAT/SUN/PH: CLOSED\n\n",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60320703585"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "-"
+            }
+        },
+        "address": {
+            "line1": "NO. 22, 3RD FLOOR,",
+            "line2": " MEDAN PASAR",
+            "line3": "50050 Kuala Lumpur",
+            "latitude": 3.147297,
+            "longitude": 101.695917
+        }
+    },
+    {
+        "id": "53",
+        "name": "KLINIK BAHARI SDN BHD",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-7.30PM\n\nSAT : 8.30AM-5.00PM\n\nSUN/PH : 8.30AM-1.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60379550969"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "-"
+            }
+        },
+        "address": {
+            "line1": "12 Jln 222",
+            "line2": "PETALING JAYA",
+            "line3": "46100 SELANGOR",
+            "latitude": 3.096673,
+            "longitude": 101.631399
+        }
+    },
+    {
+        "id": "55",
+        "name": "P J POLYCLINIC",
+        "type": "CLINIC",
+        "timing": "MON-SAT: 7.00AM-10.30AM\n\nSUN/PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60377824487"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60377824487"
+            }
+        },
+        "address": {
+            "line1": "C19, JALAN 1/21, \n",
+            "line2": "PETALING JAYA",
+            "line3": "46000 , SELANGOR",
+            "latitude": 3.086764,
+            "longitude": 101.6461
+        }
+    },
+    {
+        "id": "183",
+        "name": "KLINIK SRI PERMAISURI",
+        "type": "CLINIC",
+        "timing": "MON-FRI: 9.00AM-1.00PM, 3.00PM-9.30PM\n\nSAT: 9.00AM-1.00PM\n\nPH/SUN: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60391713481"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60391713481"
+            }
+        },
+        "address": {
+            "line1": "B1-12 PLAZA DWITASIK \nOFF JLN TASIK PERMAISURI 1\n\n",
+            "line2": "BDR SRI PERMAISURI",
+            "line3": "56000 KUALA LUMPUR",
+            "latitude": 3.102839,
+            "longitude": 101.713857
+        }
+    },
+    {
+        "id": "56",
+        "name": "KLINIK PETALING JAYA",
+        "type": "CLINIC",
+        "timing": "MON-FRI: 9.00AM-1.00PM, 4.00PM-8.00PM\n\nSAT: 9.00AM-1.00PM\n\nPH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60378762221"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60378762221"
+            }
+        },
+        "address": {
+            "line1": "23A JLN SS 2/75, \n",
+            "line2": "PETALING JAYA",
+            "line3": "47300 , SELANGOR",
+            "latitude": 3.119615,
+            "longitude": 101.623046
+        }
+    },
+    {
+        "id": "184",
+        "name": "CLINIC FAMILYCARE",
+        "type": "CLINIC",
+        "timing": "MON-SAT : 8.30AM-9.00PM\n\nSUN/PH : 9.00AM-1.00PM\n\n",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60322022285 "
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60320922281 "
+            }
+        },
+        "address": {
+            "line1": "NO 7, PERSIARAN ARA KIRI, ",
+            "line2": "LUCKY GARDEN, BANGSAR",
+            "line3": "59100, KUALA LUMPUR",
+            "latitude": 3.127901,
+            "longitude": 101.670155
+        }
+    },
+    {
+        "id": "59",
+        "name": "KLINIK MEDIPRIME",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-6.00PM\n\nSAT : 8.30AM-12.30PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60379570232"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60379584978"
+            }
+        },
+        "address": {
+            "line1": "9-1 GRD FLR RIGHT ANGLE JLN 14/22, \n",
+            "line2": "PETALING JAYA",
+            "line3": "46100 , SELANGOR",
+            "latitude": 3.1113265,
+            "longitude": 101.634484
+        }
+    },
+    {
+        "id": "187",
+        "name": "KLINIK KANNAN",
+        "type": "CLINIC",
+        "timing": "MON-SUN: 9.00AM - 10.00PM\n\nPH: 9.0AM-10.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60380759879"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60380706269 "
+            }
+        },
+        "address": {
+            "line1": "23 JLN TK 1/11B TMN KINRARA SEK 1\nBT 7 1/2 JLN PUCHONG, \n",
+            "line2": " PUCHONG",
+            "line3": "47100 SELANGOR",
+            "latitude": 3.064084,
+            "longitude": 101.6482
+        }
+    },
+    {
+        "id": "60",
+        "name": "KLINIK LOH",
+        "type": "CLINIC",
+        "timing": "MON-FRI: 8.00AM-12.30PM, 2.00PM-9.00PM\n\nSAT: 8.00PM-12.30PM, 2.00PM-5.00PM\n\nSUN/PH: 8.00AM-1.30PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60378767410"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60378736134"
+            }
+        },
+        "address": {
+            "line1": "20 JLN 21/11B SEA PARK, \n",
+            "line2": "PETALING JAYA",
+            "line3": "46300 , SELANGOR",
+            "latitude": 3.110367,
+            "longitude": 101.622561
+        }
+    },
+    {
+        "id": "188",
+        "name": "KLINIK KOO",
+        "type": "CLINIC",
+        "timing": "MON-FRI: 8.00AM-12.00PM, 2.00PM-7.00PM\n\nSAT: 8.00AM-2.00PM\n\nSUN/PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60377282379"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60377279642"
+            }
+        },
+        "address": {
+            "line1": "92 JLN BURHANUDDIN HELMI \n",
+            "line2": "TTDI",
+            "line3": "60000 KUALA LUMPUR",
+            "latitude": 3.152515,
+            "longitude": 101.621437
+        }
+    },
+    {
+        "id": "62",
+        "name": "POLIKLINIK KUMPULAN CITY",
+        "type": "CLINIC",
+        "timing": "24 HOURS",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60379805482"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60379821776 "
+            }
+        },
+        "address": {
+            "line1": "24 JLN AWAN HIJAU 5TH MILE \n\n",
+            "line2": "JLN KELANG LAMA OUG",
+            "line3": "58200 KUALA LUMPUR",
+            "latitude": 3.081629,
+            "longitude": 101.6703555
+        }
+    },
+    {
+        "id": "193",
+        "name": "KLINIK PAKAR PAKAR PERUBATAN P & R SDN BHD",
+        "type": "CLINIC",
+        "timing": "MON-SAT : 9.00AM-5.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60340451225 "
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60340451225 "
+            }
+        },
+        "address": {
+            "line1": "NO 118\n",
+            "line2": " JLN IPOH",
+            "line3": "51200 KUALA LUMPUR",
+            "latitude": 3.169829,
+            "longitude": 101.695006
+        }
+    },
+    {
+        "id": "194",
+        "name": "DR FATEH MOHD DAN RAKAN-RAKAN",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-5.00PM\n\nSAT : 8.30AM-4.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60326926626"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60326932102 "
+            }
+        },
+        "address": {
+            "line1": "Suite 222, Tingkat 2, No. 86, Jln. Masjid India",
+            "line2": "Jalan Tuanku Abdul Rahman",
+            "line3": "50100 Kuala Lumpur",
+            "latitude": 3.15428,
+            "longitude": 101.6973
+        }
+    },
+    {
+        "id": "197",
+        "name": "MEDI KLINIK WONG ZUL & RAKAN RAKAN",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-9.00PM\n\nSAT : 9.00AM-1.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60379805237"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60379812792 "
+            }
+        },
+        "address": {
+            "line1": "63A JLN DESA BAKTI \n\n",
+            "line2": "TMN DESA OFF , JLN KLANG LAMA",
+            "line3": "58100 KUALA LUMPUR",
+            "latitude": 3.103637,
+            "longitude": 101.682731
+        }
+    },
+    {
+        "id": "198",
+        "name": "CLINIC FAMILYCARE",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-5.00PM\n\nSAT : 9.00AM-1.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60379557955"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "-"
+            }
+        },
+        "address": {
+            "line1": "103 BLK D PHILEO DAMANSARA 1\n9 JLN 16/1, \n",
+            "line2": "PETALING JAYA",
+            "line3": "46350 , SELANGOR",
+            "latitude": 3.1262325,
+            "longitude": 101.6440645
+        }
+    },
+    {
+        "id": "71",
+        "name": "KLINIK FAMILI DR WAN KAMARIAH",
+        "type": "CLINIC",
+        "timing": "MON-SUN/ PH : 8.00AM-12.00MIDNITE",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60342560462"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60342579849 "
+            }
+        },
+        "address": {
+            "line1": "NO 19-G JLN SETIAWANGSA 9\n",
+            "line2": " TMN SETIAWANGSA",
+            "line3": "54200 KUALA LUMPUR",
+            "latitude": 3.178318,
+            "longitude": 101.741396
+        }
+    },
+    {
+        "id": "203",
+        "name": "KLINIK TAN & MANO SDN BHD",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 9.00AM-5.00PM\n\nSAT/SUN/PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60321662050"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60321662051 "
+            }
+        },
+        "address": {
+            "line1": "13TH FLR PLAZA OSK \n",
+            "line2": "JLN AMPANG",
+            "line3": "50450 KUALA LUMPUR",
+            "latitude": 3.161157,
+            "longitude": 101.716884
+        }
+    },
+    {
+        "id": "208",
+        "name": "KLINIK KELUARGA",
+        "type": "CLINIC",
+        "timing": "MON & FRI : 9.00AM-9.00PM\n\nSAT-SUN : 10.00AM-1.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60341494007"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60341436284 "
+            }
+        },
+        "address": {
+            "line1": "NO 28 JLN 1A/27A SEK 1 \n",
+            "line2": "WANGSA MAJU",
+            "line3": "53300 KUALA LUMPUR",
+            "latitude": 3.201486,
+            "longitude": 101.732278
+        }
+    },
+    {
+        "id": "209",
+        "name": "KLINIK KELUARGA",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.00AM-10.30PM\nSAT-SUN/PH : 9.00AM-10.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60392027207"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "-"
+            }
+        },
+        "address": {
+            "line1": "NO 26G JLN 1/23A \n",
+            "line2": "PANDAN INDAH",
+            "line3": "55100 KUALA LUMPUR",
+            "latitude": 3.133187,
+            "longitude": 101.751606
+        }
+    },
+    {
+        "id": "212",
+        "name": "HOREB SDN BHD DRS TONG, LEOW, CHIAM & PARTNERS",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 8.30AM-4.45PM\n\nSAT : 8.30AM-12.45PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60320721408"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60320313763 "
+            }
+        },
+        "address": {
+            "line1": "Suite 7.02 7th Flr Wisma Maran 28 ",
+            "line2": "Medan Pasar",
+            "line3": "50050 KUALA LUMPUR",
+            "latitude": 3.147935,
+            "longitude": 101.695955
+        }
+    },
+    {
+        "id": "213",
+        "name": "POLIKLINIK DESILVA",
+        "type": "CLINIC",
+        "timing": "MON-SUN : 8.00AM-6.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60392821721"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60392870431"
+            }
+        },
+        "address": {
+            "line1": "NO 7 JLN PERDANA 4/5 \n\n",
+            "line2": "PANDAN PERDANA, CHERAS",
+            "line3": "55300 KUALA LUMPUR",
+            "latitude": 3.119773,
+            "longitude": 101.743239
+        }
+    },
+    {
+        "id": "214",
+        "name": "PEARL'S CLINIC OF CARE",
+        "type": "CLINIC",
+        "timing": "MON-SAT : 9.00AM-10.00PM\n\nSUN/PH : 3.00PM-10.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60362032837"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "-"
+            }
+        },
+        "address": {
+            "line1": "A-0-5 PLAZA DAMAS \n60 JLN SRI HARTAMAS 1\n",
+            "line2": "A-0-5 Plaza Damas 60 Jln Sri Hartamas 1",
+            "line3": "50480 KUALA LUMPUR",
+            "latitude": 3.164291,
+            "longitude": 101.656225
+        }
+    },
+    {
+        "id": "215",
+        "name": "KLINIK HEALTHCARE DAN SURGERI",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 9.00AM-6.00PM\n\nSAT closed",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60322879645"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60322879644 "
+            }
+        },
+        "address": {
+            "line1": "UNIT 37-2, 2ND FLOOR \nTHE BOULEVARD MID VALLEY CITY\n\n",
+            "line2": "LINGKARAN SYED PUTRA, BANGSAR",
+            "line3": "59200 KUALA LUMPUR",
+            "latitude": 3.118296,
+            "longitude": 101.676779
+        }
+    },
+    {
+        "id": "345",
+        "name": "KLINIK CHEW",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 9.00AM-9.00PM\n\nSAT : 9.00AM-2.00PM\n\nSUN/PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60341494590"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60341491091 "
+            }
+        },
+        "address": {
+            "line1": "No 3 Jln Metro WangsaSection 2",
+            "line2": " Wangsa Maju",
+            "line3": "53300 KUALA LUMPUR",
+            "latitude": 3.205323,
+            "longitude": 101.735849
+        }
+    },
+    {
+        "id": "223",
+        "name": "KIARA MEDICAL CENTRE",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 9.00AM-6.00PM\n\nSAT : 9.00AM-1.00PM\n\nSUN/PH: CLOSED",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60323008030"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60323001811 "
+            }
+        },
+        "address": {
+            "line1": "No 8 Jln 31/70a",
+            "line2": " Desa Sri Hartamas",
+            "line3": "50480 KUALA LUMPUR",
+            "latitude": 3.162827,
+            "longitude": 101.64829
+        }
+    },
+    {
+        "id": "224",
+        "name": "KLINIK MEDI PESONA SDN BHD",
+        "type": "CLINIC",
+        "timing": "MON-FRI : 9.00AM-9.00PM\n\nSAT : 9.00AM-5.00PM",
+        "contactDetails": {
+            "website": {
+                "channel": "CUSTOM",
+                "customChannel": "website",
+                "value": "-"
+            },
+            "phone": {
+                "channel": "PHONE",
+                "value": "+60322881439"
+            },
+            "fax": {
+                "channel": "CUSTOM",
+                "customChannel": "fax",
+                "value": "+60322881451 "
+            }
+        },
+        "address": {
+            "line1": "NO 1, GROUND FLOOR, \nJALAN BANGSAR UTAMA 3, \n\n",
+            "line2": "BANGSAR UTAMA",
+            "line3": "59000 KUALA LUMPUR",
+            "latitude": 3.1278071,
+            "longitude": 101.6772589
+        }
+    }
+]

@@ -1,0 +1,120 @@
+import { StyleSheet } from "react-native";
+
+export default StyleSheet.create({
+  container: {
+    flex: 1,
+    flexDirection: "row",
+    padding: 3,
+  },
+  containerStyle: {
+    alignItems: "center",
+    flexDirection: "row",
+    margin: 5,
+  },
+  imageContainerStyle: {
+    alignItems: "flex-start",
+    flex: 0.2,
+    justifyContent: "flex-start",
+  },
+  imageSize: {
+    height: 27,
+    marginTop: 5,
+    resizeMode: "contain",
+    width: 27,
+  },
+  likeContainer: { flexDirection: "row", marginTop: 10 },
+  likeStyle: {
+    borderColor: "#c9c9c9",
+    borderRadius: 11,
+    borderWidth: 0.3,
+    color: "#393e46",
+    fontFamily: "Avenir-Roman",
+    fontSize: 12,
+    lineHeight: 15,
+    paddingHorizontal: 10,
+  },
+  marginStyle: { flex: 2 },
+  messageStyle: {
+    color: "#838383",
+    fontFamily: "Avenir-Roman",
+    fontSize: 12,
+    lineHeight: 15,
+  },
+  name: {
+    color: "#393e46",
+    fontFamily: "Avenir-Heavy",
+    fontSize: 12,
+    fontWeight: "600",
+    lineHeight: 25,
+  },
+  nameContainer: {
+    alignItems: "center",
+    flexDirection: "row",
+    justifyContent: "space-between",
+    marginTop: 5,
+  },
+  replyStyle: {
+    borderColor: "#c9c9c9",
+    borderRadius: 11,
+    borderWidth: 0.3,
+    color: "#393e46",
+    fontFamily: "Avenir-Roman",
+    fontSize: 12,
+    lineHeight: 15,
+    marginLeft: 15,
+    paddingHorizontal: 10,
+  },
+  textStyle: {
+    color: "black",
+    paddingLeft: 5,
+  },
+  time: {
+    color: "#393e46",
+    fontFamily: "Avenir-Roman",
+    fontSize: 9,
+    opacity: 0.8,
+  },
+  viewAllContainer: {
+    flexDirection: "row",
+    justifyContent: "flex-end",
+  },
+  viewAllTextStyle: {
+    color: "#393e46",
+    fontFamily: "Avenir-Roman",
+    textDecorationLine: "underline",
+    fontSize: 9,
+  },
+  likeIcon: {
+    height: 12,
+    resizeMode: "contain",
+    width: 10,
+  },
+  replyIcon: {
+    height: 12,
+    resizeMode: "contain",
+    width: 12,
+  },
+  likeView: {
+    alignContent: "center",
+    flexDirection: "row",
+    justifyContent: "center",
+  },
+  replyView: {
+    alignContent: "center",
+    flexDirection: "row",
+    justifyContent: "center",
+    marginLeft: 20,
+  },
+  likeCount: {
+    fontFamily: "Avenir-Roman",
+    fontSize: 9,
+    marginLeft: 5,
+    color: "#393e46",
+  },
+  replyCount: {
+    fontFamily: "Avenir-Roman",
+    fontSize: 9,
+    marginLeft: 5,
+    color: "#393e46",
+  },
+});

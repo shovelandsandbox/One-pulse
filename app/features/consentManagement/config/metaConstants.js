@@ -1,0 +1,9 @@
+export const MARKETING_CONSENT_TEXT = "marketingConsentText";
+export const SCREEN_KEY_MARKETING_CONSENT = "marketingconsent";
+export const MARKETING_CONSENT_SAVE_TEXT = "marketingConsentSaveText";
+export const ELEMENT_KEY_MARKETING_CONSENT = "marketingConsentLabel";
+export const MARKETING = "marketing";
+export const PULSE_PERSONALISED_TITLE = "pulsePersonalisedTitle";
+export const PULSE_PERSONALISED_DESCRIPTION = "pulsePersonalisedDescription";
+export const PULSE_PERSONALISED_CANCEL_BTN = "pulsePersonalisedCancelBtn";
+export const PULSE_PERSONALISED_CONTINUE_BTN = "pulsePersonalisedContinueBtn";

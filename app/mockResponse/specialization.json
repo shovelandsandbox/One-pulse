@@ -1,0 +1,1623 @@
+{
+    "loading": false,
+    "specialization": [
+        {
+            "id": "ACCIDENT & EMERGENCY",
+            "label": "ACCIDENT & EMERGENCY",
+            "items": [
+                "mockItem - 0",
+                "mockItem - 1",
+                "mockItem - 2",
+                "mockItem - 3"
+            ]
+        },
+        {
+            "id": "ADULT & PAEDIATRIC UROLOGY",
+            "label": "ADULT & PAEDIATRIC UROLOGY",
+            "items": [
+                "mockItem - 0",
+                "mockItem - 1",
+                "mockItem - 2",
+                "mockItem - 3"
+            ]
+        },
+        {
+            "id": "ADVANCE TRAUMA & FOOT ANKLE",
+            "label": "ADVANCE TRAUMA & FOOT ANKLE",
+            "items": [
+                "mockItem - 0",
+                "mockItem - 1",
+                "mockItem - 2",
+                "mockItem - 3"
+            ]
+        },
+        {
+            "id": "AESTHETIC MEDICINE",
+            "label": "AESTHETIC MEDICINE",
+            "items": [
+                "mockItem - 0",
+                "mockItem - 1",
+                "mockItem - 2",
+                "mockItem - 3"
+            ]
+        },
+        {
+            "id": "ALLERGY & IMMUNOLOGY",
+            "label": "ALLERGY & IMMUNOLOGY",
+            "items": [
+                "mockItem - 0",
+                "mockItem - 1",
+                "mockItem - 2",
+                "mockItem - 3"
+            ]
+        },
+        {
+            "id": "ANAESTHESIOLOGIST",
+            "label": "ANAESTHESIOLOGIST",
+            "items": [
+                "mockItem - 0",
+                "mockItem - 1",
+                "mockItem - 2",
+                "mockItem - 3"
+            ]
+        },
+        {
+            "id": "ANAESTHESIOLOGIST & INTENSIVIST",
+            "label": "ANAESTHESIOLOGIST & INTENSIVIST",
+            "items": [
+                "mockItem - 0",
+                "mockItem - 1",
+                "mockItem - 2",
+                "mockItem - 3"
+            ]
+        },
+        {
+            "id": "ANAESTHESIOLOGIST & PAIN MANAGEMENT",
+            "label": "ANAESTHESIOLOGIST & PAIN MANAGEMENT",
+            "items": [
+                "mockItem - 0",
+                "mockItem - 1",
+                "mockItem - 2",
+                "mockItem - 3"
+            ]
+        },
+        {
+            "id": "ANAESTHESIOLOGY & INTENSIVE CARE",
+            "label": "ANAESTHESIOLOGY & INTENSIVE CARE",
+            "items": [
+                "mockItem - 0",
+                "mockItem - 1",
+                "mockItem - 2",
+                "mockItem - 3"
+            ]
+        },
+        {
+            "id": "ANAESTHESIOLOGY & CRITICAL CARE",
+            "label": "ANAESTHESIOLOGY & CRITICAL CARE",
+            "items": [
+                "mockItem - 0",
+                "mockItem - 1",
+                "mockItem - 2",
+                "mockItem - 3"
+            ]
+        },
+        {
+            "id": "ARTHROPLASTY",
+            "label": "ARTHROPLASTY",
+            "items": [
+                "mockItem - 0",
+                "mockItem - 1",
+                "mockItem - 2",
+                "mockItem - 3"
+            ]
+        },
+        {
+            "id": "ARTHROPLASTY & TRAUMA",
+            "label": "ARTHROPLASTY & TRAUMA",
+            "items": [
+                "mockItem - 0",
+                "mockItem - 1",
+                "mockItem - 2",
+                "mockItem - 3"
+            ]
+        },
+        {
+            "id": "ARTHROSCOPY & SPORT INJURY , GENERAL ORTHOPAEDICS",
+            "label": "ARTHROSCOPY & SPORT INJURY , GENERAL ORTHOPAEDICS",
+            "items": [
+                "mockItem - 0",
+                "mockItem - 1",
+                "mockItem - 2",
+                "mockItem - 3"
+            ]
+        },
+        {
+            "id": "BARIATRIC SURGEON",
+            "label": "BARIATRIC SURGEON",
+            "items": [
+                "mockItem - 0",
+                "mockItem - 1",
+                "mockItem - 2",
+                "mockItem - 3"
+            ]
+        },
+        {
+            "id": "BIOMEDICAL IMAGING",
+            "label": "BIOMEDICAL IMAGING",
+            "items": [
+                "mockItem - 0",
+                "mockItem - 1",
+                "mockItem - 2",
+                "mockItem - 3"
+            ]
+        },
+        {
+            "id": "BREAST & ENDOCRINE SURGEON",
+            "label": "BREAST & ENDOCRINE SURGEON",
+            "items": [
+                "mockItem - 0",
+                "mockItem - 1",
+                "mockItem - 2",
+                "mockItem - 3"
+            ]
+        },
+        {
+            "id": "BREAST HEALTH",
+            "label": "BREAST HEALTH"
+        },
+        {
+            "id": "BREAST SURGEON",
+            "label": "BREAST SURGEON"
+        },
+        {
+            "id": "CARDIAC ANAESTHETIST",
+            "label": "CARDIAC ANAESTHETIST"
+        },
+        {
+            "id": "PAEDIATRIC CARDIOLOGIST",
+            "label": "PAEDIATRIC CARDIOLOGIST"
+        },
+        {
+            "id": "CARDIOLOGIST",
+            "label": "CARDIOLOGIST"
+        },
+        {
+            "id": "CARDIOLOGIST & ELECTROPHYSIOLOGIST",
+            "label": "CARDIOLOGIST & ELECTROPHYSIOLOGIST"
+        },
+        {
+            "id": "CARDIOLOGIST & INTERVENTIONAL ELECTROPHYSIOLOGIST",
+            "label": "CARDIOLOGIST & INTERVENTIONAL ELECTROPHYSIOLOGIST"
+        },
+        {
+            "id": "CARDIOLOGIST & PHYSICIAN",
+            "label": "CARDIOLOGIST & PHYSICIAN"
+        },
+        {
+            "id": "CARDIOLOGIST & INTERNAL MEDICINE",
+            "label": "CARDIOLOGIST & INTERNAL MEDICINE"
+        },
+        {
+            "id": "CARDIOTHORACIC SURGEON",
+            "label": "CARDIOTHORACIC SURGEON"
+        },
+        {
+            "id": "CARDIOTHORACIC ANAESTHESIOLOGIST",
+            "label": "CARDIOTHORACIC ANAESTHESIOLOGIST"
+        },
+        {
+            "id": "CARDIOTHORACIC CLINICAL SPECIALIST",
+            "label": "CARDIOTHORACIC CLINICAL SPECIALIST"
+        },
+        {
+            "id": "CARDIOTHORACIC SURGEON - ADULT & PAEDIATRIC",
+            "label": "CARDIOTHORACIC SURGEON - ADULT & PAEDIATRIC"
+        },
+        {
+            "id": "CARDIOVASCULAR & THORACIC SURGEON",
+            "label": "CARDIOVASCULAR & THORACIC SURGEON"
+        },
+        {
+            "id": "CHEMICAL PATHOLOGY",
+            "label": "CHEMICAL PATHOLOGY"
+        },
+        {
+            "id": "CHEST & GENERAL PHYSICIAN",
+            "label": "CHEST & GENERAL PHYSICIAN"
+        },
+        {
+            "id": "CHEST PHYSICIAN",
+            "label": "CHEST PHYSICIAN"
+        },
+        {
+            "id": "CHIEF MEDICAL OFFICER",
+            "label": "CHIEF MEDICAL OFFICER"
+        },
+        {
+            "id": "CHILD & ADOLESCENT PSYCHIATRY",
+            "label": "CHILD & ADOLESCENT PSYCHIATRY"
+        },
+        {
+            "id": "CLINIC MEDICAL HEALTHCARE (JAPANESE)",
+            "label": "CLINIC MEDICAL HEALTHCARE (JAPANESE)"
+        },
+        {
+            "id": "CLINICAL ONCOLOGIST",
+            "label": "CLINICAL ONCOLOGIST"
+        },
+        {
+            "id": "CLINICAL RADIOLOGIST",
+            "label": "CLINICAL RADIOLOGIST"
+        },
+        {
+            "id": "OBSTETRICIAN & GYNAECOLOGIST",
+            "label": "OBSTETRICIAN & GYNAECOLOGIST"
+        },
+        {
+            "id": "COLORECTAL SURGEON",
+            "label": "COLORECTAL SURGEON"
+        },
+        {
+            "id": "DENTAL OFFICER",
+            "label": "DENTAL OFFICER"
+        },
+        {
+            "id": "DENTAL SURGEON",
+            "label": "DENTAL SURGEON"
+        },
+        {
+            "id": "DENTAL SURGERON (ORTHODONTICS)",
+            "label": "DENTAL SURGERON (ORTHODONTICS)"
+        },
+        {
+            "id": "DENTAL ORAL & MAXILLOFACIAL",
+            "label": "DENTAL ORAL & MAXILLOFACIAL"
+        },
+        {
+            "id": "DENTIST",
+            "label": "DENTIST"
+        },
+        {
+            "id": "DERMATOLOGIST",
+            "label": "DERMATOLOGIST"
+        },
+        {
+            "id": "DERMATOLOGIST & ALLERGY",
+            "label": "DERMATOLOGIST & ALLERGY"
+        },
+        {
+            "id": "DERMATOLOGIST & PHYSICIAN",
+            "label": "DERMATOLOGIST & PHYSICIAN"
+        },
+        {
+            "id": "DEVELOPMENTAL PAEDIATRICIAN",
+            "label": "DEVELOPMENTAL PAEDIATRICIAN"
+        },
+        {
+            "id": "DIABETES & ENDOCRINOLOGY",
+            "label": "DIABETES & ENDOCRINOLOGY"
+        },
+        {
+            "id": "DIAGNOSTIC & INTERVENTIONAL RADIOLOGIST",
+            "label": "DIAGNOSTIC & INTERVENTIONAL RADIOLOGIST"
+        },
+        {
+            "id": "DNA",
+            "label": "DNA"
+        },
+        {
+            "id": "EAR, NOSE & THROAT",
+            "label": "EAR, NOSE & THROAT"
+        },
+        {
+            "id": "EAR, NOSE & THROAT SURGEON",
+            "label": "EAR, NOSE & THROAT SURGEON"
+        },
+        {
+            "id": "EAR, NOSE, THROAT (ENT) , HEAD & NECK SURGEON",
+            "label": "EAR, NOSE, THROAT (ENT) , HEAD & NECK SURGEON"
+        },
+        {
+            "id": "EMERGENCY MEDICINE",
+            "label": "EMERGENCY MEDICINE"
+        },
+        {
+            "id": "EMERGENCY PHYSICIAN",
+            "label": "EMERGENCY PHYSICIAN"
+        },
+        {
+            "id": "ENDOCRINE SURGEON",
+            "label": "ENDOCRINE SURGEON"
+        },
+        {
+            "id": "ENDOCRINOLOGIST",
+            "label": "ENDOCRINOLOGIST"
+        },
+        {
+            "id": "ENDOCRINOLOGIST & PHYSICIAN",
+            "label": "ENDOCRINOLOGIST & PHYSICIAN"
+        },
+        {
+            "id": "ENDOCRINOLOGIST & PHYSICIAN",
+            "label": "ENDOCRINOLOGIST & PHYSICIAN"
+        },
+        {
+            "id": "ENDOCRINOLOGY & DIABETES",
+            "label": "ENDOCRINOLOGY & DIABETES"
+        },
+        {
+            "id": "EAR, NOSE, THROAT (ENT) , HEAD & NECK SURGEON (OTORHINOLARYNGOLOGY)",
+            "label": "EAR, NOSE, THROAT (ENT) , HEAD & NECK SURGEON (OTORHINOLARYNGOLOGY)"
+        },
+        {
+            "id": "FAMILY MEDICINE",
+            "label": "FAMILY MEDICINE"
+        },
+        {
+            "id": "FOOT AND ANKLE SURGEON",
+            "label": "FOOT AND ANKLE SURGEON"
+        },
+        {
+            "id": "GASTRO INTESTINAL SURGEON",
+            "label": "GASTRO INTESTINAL SURGEON"
+        },
+        {
+            "id": "GASTROENTEROLOGIST",
+            "label": "GASTROENTEROLOGIST"
+        },
+        {
+            "id": "GASTROENTEROLOGIST",
+            "label": "GASTROENTEROLOGIST"
+        },
+        {
+            "id": "GASTROENTEROLOGIST & HEPATOLOGIST",
+            "label": "GASTROENTEROLOGIST & HEPATOLOGIST"
+        },
+        {
+            "id": "GASTROENTEROLOGIST & PHYSICIAN",
+            "label": "GASTROENTEROLOGIST & PHYSICIAN"
+        },
+        {
+            "id": "GASTROENTEROLOGY & INTERNAL MEDICINE",
+            "label": "GASTROENTEROLOGY & INTERNAL MEDICINE"
+        },
+        {
+            "id": "GENERAL & CHEST PHYSICIAN",
+            "label": "GENERAL & CHEST PHYSICIAN"
+        },
+        {
+            "id": "GENERAL & COLORECTAL SURGEON",
+            "label": "GENERAL & COLORECTAL SURGEON"
+        },
+        {
+            "id": "GENERAL & ENDO-LAPAROSCOPIC SURGEON",
+            "label": "GENERAL & ENDO-LAPAROSCOPIC SURGEON"
+        },
+        {
+            "id": "GENERAL & HEPATOBILIARY",
+            "label": "GENERAL & HEPATOBILIARY"
+        },
+        {
+            "id": "GENERAL & HEPATOPANCREATO- BILIARY SURGEON",
+            "label": "GENERAL & HEPATOPANCREATO- BILIARY SURGEON"
+        },
+        {
+            "id": "GENERAL & LAPAROSCOPIC SURGEON",
+            "label": "GENERAL & LAPAROSCOPIC SURGEON"
+        },
+        {
+            "id": "GENERAL & PLASTIC SURGEON",
+            "label": "GENERAL & PLASTIC SURGEON"
+        },
+        {
+            "id": "GENERAL & THORACIC SURGEON",
+            "label": "GENERAL & THORACIC SURGEON"
+        },
+        {
+            "id": "GENERAL & UPPER GI SURGEON",
+            "label": "GENERAL & UPPER GI SURGEON"
+        },
+        {
+            "id": "GENERAL & VASCULAR SURGEON",
+            "label": "GENERAL & VASCULAR SURGEON"
+        },
+        {
+            "id": "GENERAL & HEPATO-PANCREATO-BILIARY SURGEON",
+            "label": "GENERAL & HEPATO-PANCREATO-BILIARY SURGEON"
+        },
+        {
+            "id": "GENERAL DENTISTRY",
+            "label": "GENERAL DENTISTRY"
+        },
+        {
+            "id": "GENERAL HEPATOBILIARY - PANCREATIC SURGERY",
+            "label": "GENERAL HEPATOBILIARY - PANCREATIC SURGERY"
+        },
+        {
+            "id": "GENERAL MEDICINE, KIDNEY/ NEPHROLOGY",
+            "label": "GENERAL MEDICINE, KIDNEY/ NEPHROLOGY"
+        },
+        {
+            "id": "GENERAL PAEDIATRICS",
+            "label": "GENERAL PAEDIATRICS"
+        },
+        {
+            "id": "GENERAL PAEDIATRICS & NEONATOLOGY",
+            "label": "GENERAL PAEDIATRICS & NEONATOLOGY"
+        },
+        {
+            "id": "GENERAL PHYSICIAN",
+            "label": "GENERAL PHYSICIAN"
+        },
+        {
+            "id": "GENERAL PHYSICIAN & CARDIOLOGIST",
+            "label": "GENERAL PHYSICIAN & CARDIOLOGIST"
+        },
+        {
+            "id": "GENERAL PHYSICIAN & ENDOCRINOLOGIST/DIABETOLOGIST",
+            "label": "GENERAL PHYSICIAN & ENDOCRINOLOGIST/DIABETOLOGIST"
+        },
+        {
+            "id": "GENERAL PHYSICIAN & GASTROENTEROLOGIST",
+            "label": "GENERAL PHYSICIAN & GASTROENTEROLOGIST"
+        },
+        {
+            "id": "GENERAL PHYSICIAN & RESPIRATORY MEDICINE",
+            "label": "GENERAL PHYSICIAN & RESPIRATORY MEDICINE"
+        },
+        {
+            "id": "GENERAL PHYSICIAN (INTERNAL MEDICINE)",
+            "label": "GENERAL PHYSICIAN (INTERNAL MEDICINE)"
+        },
+        {
+            "id": "GENERAL SURGEON",
+            "label": "GENERAL SURGEON"
+        },
+        {
+            "id": "GENERAL SURGEON & BREAST SURGEON",
+            "label": "GENERAL SURGEON & BREAST SURGEON"
+        },
+        {
+            "id": "GENERAL SURGEON & COLORECTAL",
+            "label": "GENERAL SURGEON & COLORECTAL"
+        },
+        {
+            "id": "GENERAL SURGEON & GASTROENTEROLOGY",
+            "label": "GENERAL SURGEON & GASTROENTEROLOGY"
+        },
+        {
+            "id": "GENERAL SURGEON & HEPATOBILIARY",
+            "label": "GENERAL SURGEON & HEPATOBILIARY"
+        },
+        {
+            "id": "GENERAL SURGEON & HEPATOBILIARY",
+            "label": "GENERAL SURGEON & HEPATOBILIARY"
+        },
+        {
+            "id": "GENERAL SURGEON & HEPATOBILIARY SURGEON",
+            "label": "GENERAL SURGEON & HEPATOBILIARY SURGEON"
+        },
+        {
+            "id": "GENERAL SURGEON & UROLOGIST",
+            "label": "GENERAL SURGEON & UROLOGIST"
+        },
+        {
+            "id": "GENERAL SURGEON & VASCULAR",
+            "label": "GENERAL SURGEON & VASCULAR"
+        },
+        {
+            "id": "GENERAL SURGEON (COLORECTAL SURGERY)",
+            "label": "GENERAL SURGEON (COLORECTAL SURGERY)"
+        },
+        {
+            "id": "GENERAL SURGEON (PAEDIATRIC)",
+            "label": "GENERAL SURGEON (PAEDIATRIC)"
+        },
+        {
+            "id": "GENERAL SURGEON, BREAST & ENDOCRINOLOGY",
+            "label": "GENERAL SURGEON, BREAST & ENDOCRINOLOGY"
+        },
+        {
+            "id": "GENERAL SURGEON, MINIMAL ACCESS SURGEON & ENDOSCOPIST",
+            "label": "GENERAL SURGEON, MINIMAL ACCESS SURGEON & ENDOSCOPIST"
+        },
+        {
+            "id": "GENERAL SURGEON, PLASTIC & COSMETIC SURGEON",
+            "label": "GENERAL SURGEON, PLASTIC & COSMETIC SURGEON"
+        },
+        {
+            "id": "GENERAL SURGEON, UPPER GI SURGEON",
+            "label": "GENERAL SURGEON, UPPER GI SURGEON"
+        },
+        {
+            "id": "GENERAL SURGERY (SPECIAL INTEREST IN BREAST SURGERY)",
+            "label": "GENERAL SURGERY (SPECIAL INTEREST IN BREAST SURGERY)"
+        },
+        {
+            "id": "GENERAL SURGERY, HEPATOBILIARY & PANCREATIC SURGEON",
+            "label": "GENERAL SURGERY, HEPATOBILIARY & PANCREATIC SURGEON"
+        },
+        {
+            "id": "GENERAL VASCULAR AND ENDOVASCULAR SURGEON",
+            "label": "GENERAL VASCULAR AND ENDOVASCULAR SURGEON"
+        },
+        {
+            "id": "GENERAL VASCULAR SURGEON",
+            "label": "GENERAL VASCULAR SURGEON"
+        },
+        {
+            "id": "GENERAL, BREAST & ENDOCRINE SURGEON",
+            "label": "GENERAL, BREAST & ENDOCRINE SURGEON"
+        },
+        {
+            "id": "GENERAL, BREAST & ENDOCRINOLOGY SURGERY",
+            "label": "GENERAL, BREAST & ENDOCRINOLOGY SURGERY"
+        },
+        {
+            "id": "GENERAL, GASTROINTESTINAL & LAPAROSCOPIC SURGEON",
+            "label": "GENERAL, GASTROINTESTINAL & LAPAROSCOPIC SURGEON"
+        },
+        {
+            "id": "GENERAL, HEPATO PANCREATO & BILIARY SURGEON",
+            "label": "GENERAL, HEPATO PANCREATO & BILIARY SURGEON"
+        },
+        {
+            "id": "GENERAL, HEPATOPANCREATOBILIARY & ADVANCED LAPAROSCOPIC SURGEON",
+            "label": "GENERAL, HEPATOPANCREATOBILIARY & ADVANCED LAPAROSCOPIC SURGEON"
+        },
+        {
+            "id": "GENERAL, UPPER GASTROINTESTINAL AND OBESITY SURGERY",
+            "label": "GENERAL, UPPER GASTROINTESTINAL AND OBESITY SURGERY"
+        },
+        {
+            "id": "GERIATRICIAN",
+            "label": "GERIATRICIAN"
+        },
+        {
+            "id": "GERIATRIC MEDICINE",
+            "label": "GERIATRIC MEDICINE"
+        },
+        {
+            "id": "GERIATRICIAN / CHEST PHYSICIAN",
+            "label": "GERIATRICIAN / CHEST PHYSICIAN"
+        },
+        {
+            "id": "GERIATRICIAN AND PHYSICIAN",
+            "label": "GERIATRICIAN AND PHYSICIAN"
+        },
+        {
+            "id": "GLAUCOMA",
+            "label": "GLAUCOMA"
+        },
+        {
+            "id": "GLAUCOMA & VITREOTRETINAL",
+            "label": "GLAUCOMA & VITREOTRETINAL"
+        },
+        {
+            "id": "GYNAECOLOGYIST & ONCOLOGIST",
+            "label": "GYNAECOLOGYIST & ONCOLOGIST"
+        },
+        {
+            "id": "HAEMATOLOGIST",
+            "label": "HAEMATOLOGIST"
+        },
+        {
+            "id": "HAEMATOLOSIST & ONCOLOGIST",
+            "label": "HAEMATOLOSIST & ONCOLOGIST"
+        },
+        {
+            "id": "HAND & MICROSURGEON",
+            "label": "HAND & MICROSURGEON"
+        },
+        {
+            "id": "HEALTH SCREENING CLINICIAN",
+            "label": "HEALTH SCREENING CLINICIAN"
+        },
+        {
+            "id": "HEPATOBILIARY - PANCREATIC SURGERY",
+            "label": "HEPATOBILIARY - PANCREATIC SURGERY"
+        },
+        {
+            "id": "HEPATOLOGY",
+            "label": "HEPATOLOGY"
+        },
+        {
+            "id": "INFECTIOUS DISEASES",
+            "label": "INFECTIOUS DISEASES"
+        },
+        {
+            "id": "INFECTIOUS DISEASES & INTERNAL MEDICINA",
+            "label": "INFECTIOUS DISEASES & INTERNAL MEDICINA"
+        },
+        {
+            "id": "INFECTIOUS DISEASES & INTERNAL MEDICINE",
+            "label": "INFECTIOUS DISEASES & INTERNAL MEDICINE"
+        },
+        {
+            "id": "INFERTILITY",
+            "label": "INFERTILITY"
+        },
+        {
+            "id": "INTENSIVE CARE",
+            "label": "INTENSIVE CARE"
+        },
+        {
+            "id": "INTENSIVIST",
+            "label": "INTENSIVIST"
+        },
+        {
+            "id": "INTENSIVIST",
+            "label": "INTENSIVIST"
+        },
+        {
+            "id": "INTERNAL & RESPIRATORY MEDICINE",
+            "label": "INTERNAL & RESPIRATORY MEDICINE"
+        },
+        {
+            "id": "INTERNAL MEDICINE",
+            "label": "INTERNAL MEDICINE"
+        },
+        {
+            "id": "INTERNAL MEDICINE",
+            "label": "INTERNAL MEDICINE"
+        },
+        {
+            "id": "INTERNAL MEDICINE & CARDIOLOGIST",
+            "label": "INTERNAL MEDICINE & CARDIOLOGIST"
+        },
+        {
+            "id": "INTERNAL MEDICINE & GASTROENTEROLOGY",
+            "label": "INTERNAL MEDICINE & GASTROENTEROLOGY"
+        },
+        {
+            "id": "INTERNAL MEDICINE & HEMATOLOGY",
+            "label": "INTERNAL MEDICINE & HEMATOLOGY"
+        },
+        {
+            "id": "INTERNAL MEDICINE & NEUROLOGIST",
+            "label": "INTERNAL MEDICINE & NEUROLOGIST"
+        },
+        {
+            "id": "INTERNAL MEDICINE & NUCLEAR MEDICINE",
+            "label": "INTERNAL MEDICINE & NUCLEAR MEDICINE"
+        },
+        {
+            "id": "INTERNAL MEDICINE & RHEUMATOLOGY",
+            "label": "INTERNAL MEDICINE & RHEUMATOLOGY"
+        },
+        {
+            "id": "INTERNAL MEDICINE & RHEUMATOLOGY",
+            "label": "INTERNAL MEDICINE & RHEUMATOLOGY"
+        },
+        {
+            "id": "INTERNAL MEDICINE & CARDIOLOGY",
+            "label": "INTERNAL MEDICINE & CARDIOLOGY"
+        },
+        {
+            "id": "INTERNAL MEDICINE DERMATOLOGY",
+            "label": "INTERNAL MEDICINE DERMATOLOGY"
+        },
+        {
+            "id": "INTERNAL MEDICINE ENDOCRINE",
+            "label": "INTERNAL MEDICINE ENDOCRINE"
+        },
+        {
+            "id": "INTERNAL MEDICINE NEFROLOGY",
+            "label": "INTERNAL MEDICINE NEFROLOGY"
+        },
+        {
+            "id": "INTERNAL MEDICINE PHYSICIAN & GASTROENTEROLOGY",
+            "label": "INTERNAL MEDICINE PHYSICIAN & GASTROENTEROLOGY"
+        },
+        {
+            "id": "INTERNAL MEDICINE RESPIRATORY",
+            "label": "INTERNAL MEDICINE RESPIRATORY"
+        },
+        {
+            "id": "INTERNAL MEDICINE RHEUMATHOIDLOGY",
+            "label": "INTERNAL MEDICINE RHEUMATHOIDLOGY"
+        },
+        {
+            "id": "INTERNAL MEDICINE, GASTROENTEROLOGY & HEPATOLOGY",
+            "label": "INTERNAL MEDICINE, GASTROENTEROLOGY & HEPATOLOGY"
+        },
+        {
+            "id": "INTERNAL MEDICINE, PULMONOLOGY",
+            "label": "INTERNAL MEDICINE, PULMONOLOGY"
+        },
+        {
+            "id": "INTERNAL MEDICINE, ENDOCRINOLOGIST",
+            "label": "INTERNAL MEDICINE, ENDOCRINOLOGIST"
+        },
+        {
+            "id": "INTERNAL MEDICINE, GASTROLOGY",
+            "label": "INTERNAL MEDICINE, GASTROLOGY"
+        },
+        {
+            "id": "INTERVENTIONAL CARDIOLOGIST",
+            "label": "INTERVENTIONAL CARDIOLOGIST"
+        },
+        {
+            "id": "INTERVENTIONAL CARDIOLOGIST & PHYSICIAN",
+            "label": "INTERVENTIONAL CARDIOLOGIST & PHYSICIAN"
+        },
+        {
+            "id": "INTERVENTIONAL RADIOLOGIST",
+            "label": "INTERVENTIONAL RADIOLOGIST"
+        },
+        {
+            "id": "LAPAROSCOPY SURGEON",
+            "label": "LAPAROSCOPY SURGEON"
+        },
+        {
+            "id": "LARYNGOLOGY",
+            "label": "LARYNGOLOGY"
+        },
+        {
+            "id": "LIFESTYLE INTERVENTION",
+            "label": "LIFESTYLE INTERVENTION"
+        },
+        {
+            "id": "MAXILLOFACIAL",
+            "label": "MAXILLOFACIAL"
+        },
+        {
+            "id": "MAXILLOFACIAL & ORAL SURGEON",
+            "label": "MAXILLOFACIAL & ORAL SURGEON"
+        },
+        {
+            "id": "MEDICAL CARDIOLOGIST",
+            "label": "MEDICAL CARDIOLOGIST"
+        },
+        {
+            "id": "MEDICAL ENDOCRINE",
+            "label": "MEDICAL ENDOCRINE"
+        },
+        {
+            "id": "MEDICAL NEPHROLOGIST",
+            "label": "MEDICAL NEPHROLOGIST"
+        },
+        {
+            "id": "MEDICAL NEUROLOGIST",
+            "label": "MEDICAL NEUROLOGIST"
+        },
+        {
+            "id": "MEDICAL OFFICER",
+            "label": "MEDICAL OFFICER"
+        },
+        {
+            "id": "MEDICAL OFFICER",
+            "label": "MEDICAL OFFICER"
+        },
+        {
+            "id": "MEDICAL OFFICER & OCCUPATIONAL HEALTH DOCTOR (OHD)",
+            "label": "MEDICAL OFFICER & OCCUPATIONAL HEALTH DOCTOR (OHD)"
+        },
+        {
+            "id": "MEDICAL ONCOLOGIST",
+            "label": "MEDICAL ONCOLOGIST"
+        },
+        {
+            "id": "MICROBIOLOGIST",
+            "label": "MICROBIOLOGIST"
+        },
+        {
+            "id": "MICROSURGERY & PLASTIC SURGEON",
+            "label": "MICROSURGERY & PLASTIC SURGEON"
+        },
+        {
+            "id": "MRI CARDIOLOGY",
+            "label": "MRI CARDIOLOGY"
+        },
+        {
+            "id": "NEONATOLOGIST",
+            "label": "NEONATOLOGIST"
+        },
+        {
+            "id": "NEPHROLOGIST",
+            "label": "NEPHROLOGIST"
+        },
+        {
+            "id": "NEPHROLOGIST & INTERNAL MEDICINE",
+            "label": "NEPHROLOGIST & INTERNAL MEDICINE"
+        },
+        {
+            "id": "NEPHROLOGIST & PHYSICIAN",
+            "label": "NEPHROLOGIST & PHYSICIAN"
+        },
+        {
+            "id": "NEURO & SPINAL SURGEON",
+            "label": "NEURO & SPINAL SURGEON"
+        },
+        {
+            "id": "NEURO BEHAVIOURAL MEDICINE",
+            "label": "NEURO BEHAVIOURAL MEDICINE"
+        },
+        {
+            "id": "NEUROSURGEON",
+            "label": "NEUROSURGEON"
+        },
+        {
+            "id": "NEUROLOGIST",
+            "label": "NEUROLOGIST"
+        },
+        {
+            "id": "NEUROLOGIST & PHYSICIAN",
+            "label": "NEUROLOGIST & PHYSICIAN"
+        },
+        {
+            "id": "NEUROLOGY & INTERNAL MEDICINE",
+            "label": "NEUROLOGY & INTERNAL MEDICINE"
+        },
+        {
+            "id": "NEURO-OTOLOGY",
+            "label": "NEURO-OTOLOGY"
+        },
+        {
+            "id": "NEUROSURGERY, SPINE SURGERY",
+            "label": "NEUROSURGERY, SPINE SURGERY"
+        },
+        {
+            "id": "NON INTERVENTIONAL CARDIOLOGY",
+            "label": "NON INTERVENTIONAL CARDIOLOGY"
+        },
+        {
+            "id": "NUCLEAR MEDICINE",
+            "label": "NUCLEAR MEDICINE"
+        },
+        {
+            "id": "NUCLEAR MEDICINE PHYSICIAN",
+            "label": "NUCLEAR MEDICINE PHYSICIAN"
+        },
+        {
+            "id": "NUCLEAR MEDICINE PHYSICIAN & RADIOLOGIST",
+            "label": "NUCLEAR MEDICINE PHYSICIAN & RADIOLOGIST"
+        },
+        {
+            "id": "OBSTETRICIAN & GYNAECOLOGIST, MATERNAL FETAL",
+            "label": "OBSTETRICIAN & GYNAECOLOGIST, MATERNAL FETAL"
+        },
+        {
+            "id": "OBSTETRICIAN & GYNAECOLOGIST, REPRODUCTIVE MEDICINE",
+            "label": "OBSTETRICIAN & GYNAECOLOGIST, REPRODUCTIVE MEDICINE"
+        },
+        {
+            "id": "OBSTETRICIAN & GYNAECOLOGIST, UROGYNAECOLOGY",
+            "label": "OBSTETRICIAN & GYNAECOLOGIST, UROGYNAECOLOGY"
+        },
+        {
+            "id": "OBSTETRICIAN & GYNAECOLOGIST, UROGYNAECOLOGIST",
+            "label": "OBSTETRICIAN & GYNAECOLOGIST, UROGYNAECOLOGIST"
+        },
+        {
+            "id": "OBSTETRICIAN & GYNAECOLOGIST, GYNAECOLOGIST-ONCOLOGIST",
+            "label": "OBSTETRICIAN & GYNAECOLOGIST, GYNAECOLOGIST-ONCOLOGIST"
+        },
+        {
+            "id": "OBSTETRICIAN & GYNAECOLOGIST LAPAROSCOPIC SURGEON",
+            "label": "OBSTETRICIAN & GYNAECOLOGIST LAPAROSCOPIC SURGEON"
+        },
+        {
+            "id": "OBSTETRICIAN & GYNAECOLOGIST, GYNAECOLOGICAL ONCOLOGY",
+            "label": "OBSTETRICIAN & GYNAECOLOGIST, GYNAECOLOGICAL ONCOLOGY"
+        },
+        {
+            "id": "OBSTETRICIAN & GYNAECOLOGIST, REPRODUCTIVE, IVF & LAPAROSCOPY SPECIALIST",
+            "label": "OBSTETRICIAN & GYNAECOLOGIST, REPRODUCTIVE, IVF & LAPAROSCOPY SPECIALIST"
+        },
+        {
+            "id": "OBSTETRICIAN & GYNAECOLOGIST, FERTILITY SPECIALIST",
+            "label": "OBSTETRICIAN & GYNAECOLOGIST, FERTILITY SPECIALIST"
+        },
+        {
+            "id": "OBSTETRICIAN & UROGYNAECOLOGIST",
+            "label": "OBSTETRICIAN & UROGYNAECOLOGIST"
+        },
+        {
+            "id": "OCCUPATIONAL",
+            "label": "OCCUPATIONAL"
+        },
+        {
+            "id": "OCCUPATIONAL SAFETY & HEALTH",
+            "label": "OCCUPATIONAL SAFETY & HEALTH"
+        },
+        {
+            "id": "ONCOLOGIST",
+            "label": "ONCOLOGIST"
+        },
+        {
+            "id": "ONCOLOGIST & RADIOTHERAPIST",
+            "label": "ONCOLOGIST & RADIOTHERAPIST"
+        },
+        {
+            "id": "OPHTHALMOLOGIST",
+            "label": "OPHTHALMOLOGIST"
+        },
+        {
+            "id": "OPHTHALMOLOGIST SURGEON",
+            "label": "OPHTHALMOLOGIST SURGEON"
+        },
+        {
+            "id": "OPHTHALMOLOGIST & CORNEA AND EXTERNAL EYE DISEASES",
+            "label": "OPHTHALMOLOGIST & CORNEA AND EXTERNAL EYE DISEASES"
+        },
+        {
+            "id": "OPHTHALMOLOGIST & EYE SURGEON",
+            "label": "OPHTHALMOLOGIST & EYE SURGEON"
+        },
+        {
+            "id": "OPHTHALMOLOGIST & EYE SURGEON GLAUCOMA SPECIALIST & VITREORETINAL SURGEON",
+            "label": "OPHTHALMOLOGIST & EYE SURGEON GLAUCOMA SPECIALIST & VITREORETINAL SURGEON"
+        },
+        {
+            "id": "OPHTHALMOLOGIST & EYE SURGEON, GLAUCOMA SPECIALIST",
+            "label": "OPHTHALMOLOGIST & EYE SURGEON, GLAUCOMA SPECIALIST"
+        },
+        {
+            "id": "OPHTHALMOLOGIST & EYE SURGEON, MEDICAL RETINA AND UVEITIS/OCULAR INFLAMMATION SPECIALIST",
+            "label": "OPHTHALMOLOGIST & EYE SURGEON, MEDICAL RETINA AND UVEITIS/OCULAR INFLAMMATION SPECIALIST"
+        },
+        {
+            "id": "OPHTHALMOLOGIST & EYE SURGEON ORBIT, OPHTHALMIC PLASTIC AND RECONSTRUCTIVE SURGEON",
+            "label": "OPHTHALMOLOGIST & EYE SURGEON ORBIT, OPHTHALMIC PLASTIC AND RECONSTRUCTIVE SURGEON"
+        },
+        {
+            "id": "OPHTHALMOLOGIST & OCULOPLASTIC SURGERY",
+            "label": "OPHTHALMOLOGIST & OCULOPLASTIC SURGERY"
+        },
+        {
+            "id": "OPHTHALMOLOGIST & PAEDIATRIC OPHTHALMOLOGIST/SQUINT SPECIALIST",
+            "label": "OPHTHALMOLOGIST & PAEDIATRIC OPHTHALMOLOGIST/SQUINT SPECIALIST"
+        },
+        {
+            "id": "OPHTHALMOLOGIST & VITREORETINAL SURGEON",
+            "label": "OPHTHALMOLOGIST & VITREORETINAL SURGEON"
+        },
+        {
+            "id": "OPHTHALMOLOGIST & GLAUCOMA SPECIALIST",
+            "label": "OPHTHALMOLOGIST & GLAUCOMA SPECIALIST"
+        },
+        {
+            "id": "OPHTHALMOLOGIST & PAEDIATRIC OPHTHALMOLOY & STRABISMUS SURGEON",
+            "label": "OPHTHALMOLOGIST & PAEDIATRIC OPHTHALMOLOY & STRABISMUS SURGEON"
+        },
+        {
+            "id": "OPHTHALMOLOGIST & REFRACTIVE SURGEON",
+            "label": "OPHTHALMOLOGIST & REFRACTIVE SURGEON"
+        },
+        {
+            "id": "OPHTHALMOLOGIST ORBITAL & OCULOPLASTIC SURGEON",
+            "label": "OPHTHALMOLOGIST ORBITAL & OCULOPLASTIC SURGEON"
+        },
+        {
+            "id": "OPHTHALMOLOGIST, LASIK AND REFRACTIVE SURGERY SPECIALIST CORNEA AND EXTERNAL EYE DISEASE SPECIALIST",
+            "label": "OPHTHALMOLOGIST, LASIK AND REFRACTIVE SURGERY SPECIALIST CORNEA AND EXTERNAL EYE DISEASE SPECIALIST"
+        },
+        {
+            "id": "OPHTHALMOLOGIST, MEDICAL AND SURGICAL DISEASES OF THE RETINA AND VITREOUS",
+            "label": "OPHTHALMOLOGIST, MEDICAL AND SURGICAL DISEASES OF THE RETINA AND VITREOUS"
+        },
+        {
+            "id": "OPTHALMOLOGIST & EYE SURGEON",
+            "label": "OPTHALMOLOGIST & EYE SURGEON"
+        },
+        {
+            "id": "OPTHALMOLOGIST & REFRECTIVE SURGEON",
+            "label": "OPTHALMOLOGIST & REFRECTIVE SURGEON"
+        },
+        {
+            "id": "OPTHALMOLOGIST (OCUPLASTIC SURGEON)",
+            "label": "OPTHALMOLOGIST (OCUPLASTIC SURGEON)"
+        },
+        {
+            "id": "OPTHALMOLOGIST SURGEON",
+            "label": "OPTHALMOLOGIST SURGEON"
+        },
+        {
+            "id": "OPTHALMOLOGIST VITREORETINAL SURGEON",
+            "label": "OPTHALMOLOGIST VITREORETINAL SURGEON"
+        },
+        {
+            "id": "ORAL & DENTAL HEALTH",
+            "label": "ORAL & DENTAL HEALTH"
+        },
+        {
+            "id": "ORAL & MAXILLOFACIAL SURGEON",
+            "label": "ORAL & MAXILLOFACIAL SURGEON"
+        },
+        {
+            "id": "ORAL IMPLANTOLOGIST",
+            "label": "ORAL IMPLANTOLOGIST"
+        },
+        {
+            "id": "ORAL MAXILLOFACIAL SURGEON",
+            "label": "ORAL MAXILLOFACIAL SURGEON"
+        },
+        {
+            "id": "ORAL, HEAD & NECK SURGEON",
+            "label": "ORAL, HEAD & NECK SURGEON"
+        },
+        {
+            "id": "ORTHOPAEDIC & SPINE SURGEON",
+            "label": "ORTHOPAEDIC & SPINE SURGEON"
+        },
+        {
+            "id": "ORTHODONTIST",
+            "label": "ORTHODONTIST"
+        },
+        {
+            "id": "ORTHOPAEDIC",
+            "label": "ORTHOPAEDIC"
+        },
+        {
+            "id": "ORTHOPAEDIC",
+            "label": "ORTHOPAEDIC"
+        },
+        {
+            "id": "ORTHOPAEDIC & ADVANCED TRAUMA SURGEON",
+            "label": "ORTHOPAEDIC & ADVANCED TRAUMA SURGEON"
+        },
+        {
+            "id": "ORTHOPAEDIC & ARTHROPLASTY SURGEON",
+            "label": "ORTHOPAEDIC & ARTHROPLASTY SURGEON"
+        },
+        {
+            "id": "ORTHOPAEDIC & FOOT & ANKLE SURGEON",
+            "label": "ORTHOPAEDIC & FOOT & ANKLE SURGEON"
+        },
+        {
+            "id": "ORTHOPAEDIC & ONCOLOGY SURGEON",
+            "label": "ORTHOPAEDIC & ONCOLOGY SURGEON"
+        },
+        {
+            "id": "ORTHOPAEDIC & TRAUMA RECONSTRUCTIVE SURGEON",
+            "label": "ORTHOPAEDIC & TRAUMA RECONSTRUCTIVE SURGEON"
+        },
+        {
+            "id": "ORTHOPAEDIC & TRAUMA SURGEON",
+            "label": "ORTHOPAEDIC & TRAUMA SURGEON"
+        },
+        {
+            "id": "ORTHOPAEDIC & TRAUMA SURGEON (ARTHROSCOPY & SPORTS INJURY)",
+            "label": "ORTHOPAEDIC & TRAUMA SURGEON (ARTHROSCOPY & SPORTS INJURY)"
+        },
+        {
+            "id": "ORTHOPAEDIC & TRAUMA SURGEON (FOOT & ANKLE)",
+            "label": "ORTHOPAEDIC & TRAUMA SURGEON (FOOT & ANKLE)"
+        },
+        {
+            "id": "ORTHOPAEDIC & TRAUMATOLOGY SURGEON",
+            "label": "ORTHOPAEDIC & TRAUMATOLOGY SURGEON"
+        },
+        {
+            "id": "ORTHOPAEDIC (FOOT & ANKLE SURGEON)",
+            "label": "ORTHOPAEDIC (FOOT & ANKLE SURGEON)"
+        },
+        {
+            "id": "ORTHOPAEDIC & HAND SURGEON",
+            "label": "ORTHOPAEDIC & HAND SURGEON"
+        },
+        {
+            "id": "ORTHOPAEDIC AND MUSCULOSKELETAL ONCOLOGY",
+            "label": "ORTHOPAEDIC AND MUSCULOSKELETAL ONCOLOGY"
+        },
+        {
+            "id": "ORTHOPAEDIC & SPORTS SURGEON",
+            "label": "ORTHOPAEDIC & SPORTS SURGEON"
+        },
+        {
+            "id": "ORTHOPAEDIC SURGEON",
+            "label": "ORTHOPAEDIC SURGEON"
+        },
+        {
+            "id": "ORTHOPAEDIC SURGEON",
+            "label": "ORTHOPAEDIC SURGEON"
+        },
+        {
+            "id": "ORTHOPAEDIC SURGEON (PAEDIATRICS)",
+            "label": "ORTHOPAEDIC SURGEON (PAEDIATRICS)"
+        },
+        {
+            "id": "ORTHOPAEDIC SURGEON - ARTHROPLASTY AND ORTHOPAEDIC ONCOLOGY",
+            "label": "ORTHOPAEDIC SURGEON - ARTHROPLASTY AND ORTHOPAEDIC ONCOLOGY"
+        },
+        {
+            "id": "ORTHOPAEDIC, HAND & MICROSURGERY",
+            "label": "ORTHOPAEDIC, HAND & MICROSURGERY"
+        },
+        {
+            "id": "ORTHOPAEDIC, SPORT & TRAUMA SURGEON",
+            "label": "ORTHOPAEDIC, SPORT & TRAUMA SURGEON"
+        },
+        {
+            "id": "ORTHOPAEDIC, SPORTS SURGEON",
+            "label": "ORTHOPAEDIC, SPORTS SURGEON"
+        },
+        {
+            "id": "ORTHOPAEDIC, TRAUMA & SPINE SURGEON",
+            "label": "ORTHOPAEDIC, TRAUMA & SPINE SURGEON"
+        },
+        {
+            "id": "ORTHOPAEDIC, TRAUMATOLOGY & SPINE SURGEON",
+            "label": "ORTHOPAEDIC, TRAUMATOLOGY & SPINE SURGEON"
+        },
+        {
+            "id": "ORTHOPAEDIC, TRAUMATOLOGY & ARTHROPLASTY SURGEON",
+            "label": "ORTHOPAEDIC, TRAUMATOLOGY & ARTHROPLASTY SURGEON"
+        },
+        {
+            "id": "ORTHOPEADIC & TRAUMA SURGEON",
+            "label": "ORTHOPEADIC & TRAUMA SURGEON"
+        },
+        {
+            "id": "ORTHOPEDIC, ARTHROSCOPY AND SPORTS MEDICINE SURGEON",
+            "label": "ORTHOPEDIC, ARTHROSCOPY AND SPORTS MEDICINE SURGEON"
+        },
+        {
+            "id": "OTORHINOLARYNGOLOGIST",
+            "label": "OTORHINOLARYNGOLOGIST"
+        },
+        {
+            "id": "OTORHINOLARYNGOLOGIST, EAR, NOSE & THROAT SURGEON",
+            "label": "OTORHINOLARYNGOLOGIST, EAR, NOSE & THROAT SURGEON"
+        },
+        {
+            "id": "OTORHINOLARYNGOLOGIST, HEAD & NECK SURGEON",
+            "label": "OTORHINOLARYNGOLOGIST, HEAD & NECK SURGEON"
+        },
+        {
+            "id": "OTORHINOLARYNGOLOGISTS (ENT)",
+            "label": "OTORHINOLARYNGOLOGISTS (ENT)"
+        },
+        {
+            "id": "OTORHINOLARYNGOLOGISTS (PEDIATRIC & OTOLOGY)",
+            "label": "OTORHINOLARYNGOLOGISTS (PEDIATRIC & OTOLOGY)"
+        },
+        {
+            "id": "PAEDIATRIC THORACIC SURGEON",
+            "label": "PAEDIATRIC THORACIC SURGEON"
+        },
+        {
+            "id": "PAEDIATRICIAN",
+            "label": "PAEDIATRICIAN"
+        },
+        {
+            "id": "PAEDIATRIC ADOLOSCENT GYNAECOLOGY",
+            "label": "PAEDIATRIC ADOLOSCENT GYNAECOLOGY"
+        },
+        {
+            "id": "PAEDIATRIC CARDIOLOGIST & PAEDIATRICIAN",
+            "label": "PAEDIATRIC CARDIOLOGIST & PAEDIATRICIAN"
+        },
+        {
+            "id": "PAEDIATRIC DENTAL & ORAL SURGEON",
+            "label": "PAEDIATRIC DENTAL & ORAL SURGEON"
+        },
+        {
+            "id": "PAEDIATRIC GASTROENTEROLOGY & HEPATOLOGY",
+            "label": "PAEDIATRIC GASTROENTEROLOGY & HEPATOLOGY"
+        },
+        {
+            "id": "PAEDIATRIC HAEMATO-ONCOLOGY",
+            "label": "PAEDIATRIC HAEMATO-ONCOLOGY"
+        },
+        {
+            "id": "PAEDIATRIC ORAL HEALTH",
+            "label": "PAEDIATRIC ORAL HEALTH"
+        },
+        {
+            "id": "PAEDIATRIC ORTHOPAEDIC SURGEON",
+            "label": "PAEDIATRIC ORTHOPAEDIC SURGEON"
+        },
+        {
+            "id": "PAEDIATRIC SURGEON",
+            "label": "PAEDIATRIC SURGEON"
+        },
+        {
+            "id": "PAEDIATRIC, ENDOCRINOLOGY",
+            "label": "PAEDIATRIC, ENDOCRINOLOGY"
+        },
+        {
+            "id": "PAEDIATRICIAN & ALLERY SPECIALIST",
+            "label": "PAEDIATRICIAN & ALLERY SPECIALIST"
+        },
+        {
+            "id": "PAEDIATRICIAN & FAMILY SKIN PHYSIAN",
+            "label": "PAEDIATRICIAN & FAMILY SKIN PHYSIAN"
+        },
+        {
+            "id": "PAEDIATRICIAN & LACTATION",
+            "label": "PAEDIATRICIAN & LACTATION"
+        },
+        {
+            "id": "PAEDIATRICIAN & NEONATOLOGIST",
+            "label": "PAEDIATRICIAN & NEONATOLOGIST"
+        },
+        {
+            "id": "PAEDIATRICIAN & PAEDIATRIC CARDIOLOGIST",
+            "label": "PAEDIATRICIAN & PAEDIATRIC CARDIOLOGIST"
+        },
+        {
+            "id": "PAEDIATRICIAN & PAEDIATRIC DERMATOLOGIST",
+            "label": "PAEDIATRICIAN & PAEDIATRIC DERMATOLOGIST"
+        },
+        {
+            "id": "PAEDIATRICIAN & PAEDIATRIC HAEMATOLOGIST-ONCOLOGIST",
+            "label": "PAEDIATRICIAN & PAEDIATRIC HAEMATOLOGIST-ONCOLOGIST"
+        },
+        {
+            "id": "PAEDIATRICIAN & PAEDIATRIC NEPHROLOGIST",
+            "label": "PAEDIATRICIAN & PAEDIATRIC NEPHROLOGIST"
+        },
+        {
+            "id": "PAEDIATRICIAN & PAEDIATRIC RADIOLOGIST",
+            "label": "PAEDIATRICIAN & PAEDIATRIC RADIOLOGIST"
+        },
+        {
+            "id": "PAEDIATRICIAN & PAEDIATRIC SURGEON",
+            "label": "PAEDIATRICIAN & PAEDIATRIC SURGEON"
+        },
+        {
+            "id": "PAEDIATRICIAN (GASTROENTEROLOGY)",
+            "label": "PAEDIATRICIAN (GASTROENTEROLOGY)"
+        },
+        {
+            "id": "PAEDIATRICIAN & INFECTIOUS DISEASE SPECIALIST",
+            "label": "PAEDIATRICIAN & INFECTIOUS DISEASE SPECIALIST"
+        },
+        {
+            "id": "PAEDIATRICIAN & PAEDIATRIC ONCOLOGIST",
+            "label": "PAEDIATRICIAN & PAEDIATRIC ONCOLOGIST"
+        },
+        {
+            "id": "PAEDIATRICIAN & RESPIRATORY PHYSICIAN",
+            "label": "PAEDIATRICIAN & RESPIRATORY PHYSICIAN"
+        },
+        {
+            "id": "PAEDIATRICIAN & CLINICAL IMMUNOLOGIST",
+            "label": "PAEDIATRICIAN & CLINICAL IMMUNOLOGIST"
+        },
+        {
+            "id": "PAEDIATRICIAN, PAEDIATRIC GASTROENTEROLOGIST & HEPATOLOGIST",
+            "label": "PAEDIATRICIAN, PAEDIATRIC GASTROENTEROLOGIST & HEPATOLOGIST"
+        },
+        {
+            "id": "PAEDIATRICIAN NEUROLOGIST",
+            "label": "PAEDIATRICIAN NEUROLOGIST"
+        },
+        {
+            "id": "PAEDIATRICIAN SURGEON",
+            "label": "PAEDIATRICIAN SURGEON"
+        },
+        {
+            "id": "PAEDIATRICIAN SURGEON (HEPATOBILIARY SURGERY)",
+            "label": "PAEDIATRICIAN SURGEON (HEPATOBILIARY SURGERY)"
+        },
+        {
+            "id": "PAEDIATRICS TRAUMA & ORTHOPAEDIC",
+            "label": "PAEDIATRICS TRAUMA & ORTHOPAEDIC"
+        },
+        {
+            "id": "PAIN MANAGEMENT",
+            "label": "PAIN MANAGEMENT"
+        },
+        {
+            "id": "PALLIATIVE CARE",
+            "label": "PALLIATIVE CARE"
+        },
+        {
+            "id": "PATHOLOGIST",
+            "label": "PATHOLOGIST"
+        },
+        {
+            "id": "PERIODONTIST",
+            "label": "PERIODONTIST"
+        },
+        {
+            "id": "PERIODONTIST & RESTORATIVE DENTIST",
+            "label": "PERIODONTIST & RESTORATIVE DENTIST"
+        },
+        {
+            "id": "PHYSICAL MEDICINE AND REHABILITATION",
+            "label": "PHYSICAL MEDICINE AND REHABILITATION"
+        },
+        {
+            "id": "PHYSICIAN",
+            "label": "PHYSICIAN"
+        },
+        {
+            "id": "PHYSICIAN & CARDIOLOGIST",
+            "label": "PHYSICIAN & CARDIOLOGIST"
+        },
+        {
+            "id": "PHYSICIAN & DERMATOLOGIST",
+            "label": "PHYSICIAN & DERMATOLOGIST"
+        },
+        {
+            "id": "PHYSICIAN & ENDOCHINOLOGIST",
+            "label": "PHYSICIAN & ENDOCHINOLOGIST"
+        },
+        {
+            "id": "PHYSICIAN & ENDOCRINOLOGIST",
+            "label": "PHYSICIAN & ENDOCRINOLOGIST"
+        },
+        {
+            "id": "PHYSICIAN & ENDOCRINOLOGIST, DIABETOLOGIST",
+            "label": "PHYSICIAN & ENDOCRINOLOGIST, DIABETOLOGIST"
+        },
+        {
+            "id": "PHYSICIAN & GASTROENTEROLOGIST",
+            "label": "PHYSICIAN & GASTROENTEROLOGIST"
+        },
+        {
+            "id": "PHYSICIAN & GERIATRICIAN",
+            "label": "PHYSICIAN & GERIATRICIAN"
+        },
+        {
+            "id": "PHYSICIAN & HAEMATOLOGIST",
+            "label": "PHYSICIAN & HAEMATOLOGIST"
+        },
+        {
+            "id": "PHYSICIAN & INFECTIOUS DISEASES SPECIALIST",
+            "label": "PHYSICIAN & INFECTIOUS DISEASES SPECIALIST"
+        },
+        {
+            "id": "PHYSICIAN & NEPHROLOGIST",
+            "label": "PHYSICIAN & NEPHROLOGIST"
+        },
+        {
+            "id": "PHYSICIAN & NEUROLOGIST",
+            "label": "PHYSICIAN & NEUROLOGIST"
+        },
+        {
+            "id": "PHYSICIAN & NUCLEAR MEDICINE",
+            "label": "PHYSICIAN & NUCLEAR MEDICINE"
+        },
+        {
+            "id": "PHYSICIAN & RESPIRATORY",
+            "label": "PHYSICIAN & RESPIRATORY"
+        },
+        {
+            "id": "PHYSICIAN & RESPIRATORY MEDICINE",
+            "label": "PHYSICIAN & RESPIRATORY MEDICINE"
+        },
+        {
+            "id": "PHYSICIAN & RHEUMATOLOGIST",
+            "label": "PHYSICIAN & RHEUMATOLOGIST"
+        },
+        {
+            "id": "PHYSICIAN (INFECTIOUS DISEASES & TRAVEL MEDICINE)",
+            "label": "PHYSICIAN (INFECTIOUS DISEASES & TRAVEL MEDICINE)"
+        },
+        {
+            "id": "PHYSICIAN (INTERVENTIONAL BRONCHOSCOPY,TUNNELED INTRAPLEURAL CATHETER)",
+            "label": "PHYSICIAN (INTERVENTIONAL BRONCHOSCOPY,TUNNELED INTRAPLEURAL CATHETER)"
+        },
+        {
+            "id": "PHYSICIAN, GASTROENTEROLOGIST & HEPATOLOGIST",
+            "label": "PHYSICIAN, GASTROENTEROLOGIST & HEPATOLOGIST"
+        },
+        {
+            "id": "PHYSICIAN, INTERNAL MEDICINE & NEUROLOGY",
+            "label": "PHYSICIAN, INTERNAL MEDICINE & NEUROLOGY"
+        },
+        {
+            "id": "PLASTIC & RECONSTRUCTIVE SURGEON",
+            "label": "PLASTIC & RECONSTRUCTIVE SURGEON"
+        },
+        {
+            "id": "PLASTIC SURGEON",
+            "label": "PLASTIC SURGEON"
+        },
+        {
+            "id": "PLASTIC, COSMETIC & RECONSTRUCTIVE SURGEON",
+            "label": "PLASTIC, COSMETIC & RECONSTRUCTIVE SURGEON"
+        },
+        {
+            "id": "PLASTIC, RECONSTRUCTIVE & AESTHETIC SURGEON",
+            "label": "PLASTIC, RECONSTRUCTIVE & AESTHETIC SURGEON"
+        },
+        {
+            "id": "PLASTIC, RECONSTRUCTIVE, AESTHETIC & HAND SURGEON",
+            "label": "PLASTIC, RECONSTRUCTIVE, AESTHETIC & HAND SURGEON"
+        },
+        {
+            "id": "PRIMARY CARE",
+            "label": "PRIMARY CARE"
+        },
+        {
+            "id": "PROSTHODONTICS",
+            "label": "PROSTHODONTICS"
+        },
+        {
+            "id": "PSYCHIATRIST",
+            "label": "PSYCHIATRIST"
+        },
+        {
+            "id": "PUBLIC HEALTH SPECIALIST IN NCD INTERVENTION PROGRAMME",
+            "label": "PUBLIC HEALTH SPECIALIST IN NCD INTERVENTION PROGRAMME"
+        },
+        {
+            "id": "RADIOLOGIST",
+            "label": "RADIOLOGIST"
+        },
+        {
+            "id": "RADIOLOGIST & INTERVENTIONAL RADIOLOGIST",
+            "label": "RADIOLOGIST & INTERVENTIONAL RADIOLOGIST"
+        },
+        {
+            "id": "RADIOLOGY - NEURO INTERVENTIONAL",
+            "label": "RADIOLOGY - NEURO INTERVENTIONAL"
+        },
+        {
+            "id": "RADIOTHERAPIST & ONCOLOGIST",
+            "label": "RADIOTHERAPIST & ONCOLOGIST"
+        },
+        {
+            "id": "RECONSTRUCTION & BREAST SURGERY",
+            "label": "RECONSTRUCTION & BREAST SURGERY"
+        },
+        {
+            "id": "RECONSTRUCTIVE & CRANIOFACIAL SURGEON",
+            "label": "RECONSTRUCTIVE & CRANIOFACIAL SURGEON"
+        },
+        {
+            "id": "RECONSTRUCTIVE & CRANIOFACIAL SURGEON",
+            "label": "RECONSTRUCTIVE & CRANIOFACIAL SURGEON"
+        },
+        {
+            "id": "REHABILITATION",
+            "label": "REHABILITATION"
+        },
+        {
+            "id": "REHABILITATION MEDICINE",
+            "label": "REHABILITATION MEDICINE"
+        },
+        {
+            "id": "REHABILITATION MEDICINE",
+            "label": "REHABILITATION MEDICINE"
+        },
+        {
+            "id": "REHABILITATION MEDICINE PHYSICIAN",
+            "label": "REHABILITATION MEDICINE PHYSICIAN"
+        },
+        {
+            "id": "REHABILITATION PHYSICIAN",
+            "label": "REHABILITATION PHYSICIAN"
+        },
+        {
+            "id": "RESPIRATORY & INTERNAL MEDICINE",
+            "label": "RESPIRATORY & INTERNAL MEDICINE"
+        },
+        {
+            "id": "RESPIRATORY",
+            "label": "RESPIRATORY"
+        },
+        {
+            "id": "RESPIRATORY & GENERAL PHYSICIAN",
+            "label": "RESPIRATORY & GENERAL PHYSICIAN"
+        },
+        {
+            "id": "RESPIRATORY MEDICINE",
+            "label": "RESPIRATORY MEDICINE"
+        },
+        {
+            "id": "RESPIRATORY PHYSICIAN",
+            "label": "RESPIRATORY PHYSICIAN"
+        },
+        {
+            "id": "RESTORATIVE DENTISTRY & ENDODONTICS",
+            "label": "RESTORATIVE DENTISTRY & ENDODONTICS"
+        },
+        {
+            "id": "RHEUMATOLOGIST",
+            "label": "RHEUMATOLOGIST"
+        },
+        {
+            "id": "RHEUMATOLOGIST & PAIN PHYSICIAN",
+            "label": "RHEUMATOLOGIST & PAIN PHYSICIAN"
+        },
+        {
+            "id": "RHEUMATOLOGIST & PHYSICIAN",
+            "label": "RHEUMATOLOGIST & PHYSICIAN"
+        },
+        {
+            "id": "RHINOLOGIST & OTOLARYNGOLOGIST (ENT)",
+            "label": "RHINOLOGIST & OTOLARYNGOLOGIST (ENT)"
+        },
+        {
+            "id": "SPEECH THERAPY",
+            "label": "SPEECH THERAPY"
+        },
+        {
+            "id": "SPINE SURGEON",
+            "label": "SPINE SURGEON"
+        },
+        {
+            "id": "SPORTS MEDICINE",
+            "label": "SPORTS MEDICINE"
+        },
+        {
+            "id": "SPORTS MEDICINE PHYSICIAN",
+            "label": "SPORTS MEDICINE PHYSICIAN"
+        },
+        {
+            "id": "SURGERY BREAST & ENDOCRINE SURGEON",
+            "label": "SURGERY BREAST & ENDOCRINE SURGEON"
+        },
+        {
+            "id": "SURGERY- COLORECTAL SURGEON",
+            "label": "SURGERY- COLORECTAL SURGEON"
+        },
+        {
+            "id": "SURGERY- HEPATOBILIARY",
+            "label": "SURGERY- HEPATOBILIARY"
+        },
+        {
+            "id": "SURGERY- NEUROSURGEON",
+            "label": "SURGERY- NEUROSURGEON"
+        },
+        {
+            "id": "SURGERY- UROLOGY",
+            "label": "SURGERY- UROLOGY"
+        },
+        {
+            "id": "SURGERY- VASCULAR SURGEON",
+            "label": "SURGERY- VASCULAR SURGEON"
+        },
+        {
+            "id": "SURGICAL ONCOLOGIST",
+            "label": "SURGICAL ONCOLOGIST"
+        },
+        {
+            "id": "THORACIC & CARDIOVASCULAR SURGERY",
+            "label": "THORACIC & CARDIOVASCULAR SURGERY"
+        },
+        {
+            "id": "TRAUMA SURGERY",
+            "label": "TRAUMA SURGERY"
+        },
+        {
+            "id": "TRAUMATOLOGY",
+            "label": "TRAUMATOLOGY"
+        },
+        {
+            "id": "UPPER GASTRO INTESTINAL SURGEON",
+            "label": "UPPER GASTRO INTESTINAL SURGEON"
+        },
+        {
+            "id": "UPPER GASTROINTESTINAL & OBESITY SURGERY",
+            "label": "UPPER GASTROINTESTINAL & OBESITY SURGERY"
+        },
+        {
+            "id": "UROGYNAECOLOGIST",
+            "label": "UROGYNAECOLOGIST"
+        },
+        {
+            "id": "UROLOGIST",
+            "label": "UROLOGIST"
+        },
+        {
+            "id": "VASCULAR & GENERAL SURGEON",
+            "label": "VASCULAR & GENERAL SURGEON"
+        },
+        {
+            "id": "VASCULAR AND INTERVENTIONAL RADIOLOGY",
+            "label": "VASCULAR AND INTERVENTIONAL RADIOLOGY"
+        },
+        {
+            "id": "VASCULAR SURGEON",
+            "label": "VASCULAR SURGEON"
+        },
+        {
+            "id": "VITREO-RETINA",
+            "label": "VITREO-RETINA"
+        },
+        {
+            "id": "VITREO-RETINA & CATARACT",
+            "label": "VITREO-RETINA & CATARACT"
+        }
+    ],
+    "distance": 10,
+    "selectedSpecialization": []
+}

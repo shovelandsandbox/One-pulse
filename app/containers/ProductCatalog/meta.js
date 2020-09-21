@@ -1,0 +1,69 @@
+import { metaHelpers } from "@pru-rt-internal/pulse-common";
+const KEY_PRODUCT_CATALOG = "PRODUCT_CATALOG";
+
+const findElement = metaHelpers.findElement;
+
+const initializeMeta = () => {
+  return {
+    PRODUCT_CATALOG_TNC_HEADER: findElement(
+      KEY_PRODUCT_CATALOG,
+      "PRODUCT_CATALOG_TNC_HEADER"
+    ).label,
+    PRODUCT_CATALOG_TNC_PROCEED_BUTTON_LABEL: findElement(
+      KEY_PRODUCT_CATALOG,
+      "PRODUCT_CATALOG_TNC_PROCEED_BUTTON_LABEL"
+    ).label,
+    PRODUCT_CATALOG_TNC_CANCEL_BUTTON_LABEL: findElement(
+      KEY_PRODUCT_CATALOG,
+      "PRODUCT_CATALOG_TNC_CANCEL_BUTTON_LABEL"
+    ).label,
+    PRODUCT_CATALOG_TNC1_PRE_TEXT: findElement(
+      KEY_PRODUCT_CATALOG,
+      "PRODUCT_CATALOG_TNC1_PRE_TEXT"
+    ).label,
+    PRODUCT_CATALOG_TNC1_LINK_LABEL: findElement(
+      KEY_PRODUCT_CATALOG,
+      "PRODUCT_CATALOG_TNC1_LINK_LABEL"
+    ).label,
+    PRODUCT_CATALOG_TNC1_LINK2_LABEL: findElement(
+      KEY_PRODUCT_CATALOG,
+      "PRODUCT_CATALOG_TNC1_LINK2_LABEL"
+    ).label,
+    PRODUCT_CATALOG_TNC1_POST_TEXT: findElement(
+      KEY_PRODUCT_CATALOG,
+      "PRODUCT_CATALOG_TNC1_POST_TEXT"
+    ).label,
+    PRODUCT_CATALOG_TNC1_POST_TEXT2: findElement(
+      KEY_PRODUCT_CATALOG,
+      "PRODUCT_CATALOG_TNC1_POST_TEXT2"
+    ).label,
+    PRODUCT_CATALOG_TNC2_PRE_TEXT: findElement(
+      KEY_PRODUCT_CATALOG,
+      "PRODUCT_CATALOG_TNC2_PRE_TEXT"
+    ).label,
+    PRODUCT_CATALOG_TNC2_LINK_LABEL: findElement(
+      KEY_PRODUCT_CATALOG,
+      "PRODUCT_CATALOG_TNC2_LINK_LABEL"
+    ).label,
+    PRODUCT_CATALOG_TNC2_POST_TEXT: findElement(
+      KEY_PRODUCT_CATALOG,
+      "PRODUCT_CATALOG_TNC2_POST_TEXT"
+    ).label,
+    PRODUCT_CATALOG_TNC3_PRE_TEXT: findElement(
+      KEY_PRODUCT_CATALOG,
+      "PRODUCT_CATALOG_TNC3_PRE_TEXT"
+    ).label,
+    PRODUCT_CATALOG_TNC3_LINK_LABEL: findElement(
+      KEY_PRODUCT_CATALOG,
+      "PRODUCT_CATALOG_TNC3_LINK_LABEL"
+    ).label,
+    PRODUCT_CATALOG_TNC3_POST_TEXT: findElement(
+      KEY_PRODUCT_CATALOG,
+      "PRODUCT_CATALOG_TNC3_POST_TEXT"
+    ).label,
+  };
+};
+
+export default langMeta = {
+  initializeMeta,
+};

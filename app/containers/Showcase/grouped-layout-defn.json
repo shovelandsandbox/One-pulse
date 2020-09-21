@@ -1,0 +1,350 @@
+{
+  "layout": "grid",
+  "name": "Home",
+  "numCols": 1,
+  "components": [
+    {
+      "id": 1,
+      "type": "list",
+      "title": "Horizontal List with Images & Video",
+      "properties": {
+        "category": "News & Events",
+        "horizontal": true,
+        "itemsPerRow": 1,
+        "showIndicator": false
+      },
+      "display": {
+        "aspectRatio": 1.7,
+        "widthOffset": 0.15
+      },
+      "components": [
+        {
+          "id": 1,
+          "type": "image",
+          "style": {
+            "borderRadius": 10
+          },
+          "properties": {
+            "uri": "https://apiuat.pulse.prudentialcorporation-asia.com/api/v1_0_0/cms/82e4dbef-64b0-435c-945d-02c048540573?namespace=PH"
+          },
+          "actions": []
+        },
+        {
+          "id": 114,
+          "type": "video",
+          "title": "Videos",
+          "properties": {
+            "uri": "http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8",
+            "thumb": "https://pbs.twimg.com/profile_images/967060410934480901/iDPjPm7D_400x400.jpg",
+            "description": "Test Video 2 using HLS"
+          },
+          "actions": [
+            {
+              "on": "visible-in-viewport",
+              "internalActions": [
+                {
+                  "type": "play"
+                }
+              ]
+            },
+            {
+              "on": "out-of-viewport",
+              "internalActions": [
+                {
+                  "type": "pause"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "type": "image",
+          "style": {
+            "borderRadius": 10
+          },
+          "properties": {
+            "uri": "https://apiuat.pulse.prudentialcorporation-asia.com/api/v1_0_0/cms/e542835d-bbea-4210-9af8-3443be2aae7c?namespace=PH"
+          },
+          "actions": []
+        },
+        {
+          "id": 6,
+          "type": "image",
+          "style": {
+            "borderRadius": 10
+          },
+          "properties": {
+            "uri": "https://apiuat.pulse.prudentialcorporation-asia.com/api/v1_0_0/cms/525df4bb-6995-4563-9b5d-19af1ad27338?namespace=PH"
+          },
+          "actions": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "list",
+      "title": "Horizontal List with Images",
+      "properties": {
+        "category": "PulseBeats",
+        "horizontal": true,
+        "itemsPerRow": 1,
+        "showIndicator": false
+      },
+      "display": {
+        "aspectRatio": 2,
+        "widthOffset": 0.3
+      },
+      "components": [
+        {
+          "id": 3,
+          "type": "image",
+          "style": {
+            "borderRadius": 10
+          },
+          "properties": {
+            "uri": "https://apiuat.pulse.prudentialcorporation-asia.com/api/v1_0_0/cms/4881bc1a-b560-4958-9934-96211acdf277?namespace=PH"
+          },
+          "actions": []
+        },
+        {
+          "id": 4,
+          "type": "image",
+          "style": {
+            "borderRadius": 10
+          },
+          "properties": {
+            "uri": "https://apiuat.pulse.prudentialcorporation-asia.com/api/v1_0_0/cms/11791304-711f-425e-a8a7-0ba78c9db9b8?namespace=PH"
+          },
+          "actions": []
+        },
+        {
+          "id": 5,
+          "type": "image",
+          "style": {
+            "borderRadius": 10
+          },
+          "properties": {
+            "uri": "https://apiuat.pulse.prudentialcorporation-asia.com/api/v1_0_0/cms/6fad11ad-1953-4a0a-9a23-6f477b78b8fe?namespace=PH"
+          },
+          "actions": []
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "type": "list",
+      "title": "Horizontal List with HTML",
+      "properties": {
+        "category": "PulseBeats",
+        "horizontal": true,
+        "itemsPerRow": 1,
+        "showIndicator": false
+      },
+      "display": {
+        "aspectRatio": 2,
+        "widthOffset": 0.15
+      },
+      "components": [
+        {
+          "id": 14,
+          "type": "rich-view",
+          "html": "<div><div style=display:flex;flex-direction:row;height:100%;padding:5px;background-color:#ADD8E6;border-radius:10px;><div style=justify-content:center;align-items:center;padding:10px;><img src='https://img.icons8.com/pastel-glyph/64/000000/health-book.png' height=80px width=80px></div><div style=justify-content:center;align-items:flex-start;padding:10px;><div style=font-size:20;color:white;display:flex;flex-direction:column;>Space</div><div style=font-size:16;color:white;display:flex;flex-direction:column;>Keep safe distance</div></div></div></div>",
+          "actions": [
+            {
+              "on": "click",
+              "actionsToDispatch": [
+                {
+                  "type": "GO_TO_SCREEN",
+                  "navigateTo": "WebView",
+                  "payload": {
+                    "params": {
+                      "uri": "https://apiuat.pulse.prudentialcorporation-asia.com/api/v1_0_0/cms/89f8292e56e74ded9581fdd05c46aa39?namespace=PH"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "type": "rich-view",
+          "html": "<div><div style=display:flex;flex-direction:row;height:100%;padding:5px;background-color:#b19cd9;border-radius:10px;><div style=justify-content:center;align-items:center;padding:10px;><img src='https://image.flaticon.com/icons/png/512/62/62741.png' height=80px width=80px></div><div style=justify-content:center;align-items:flex-start;padding:10px;><div style=font-size:20;color:white;>Mask</div><div style=font-size:16;color:white;>Please wear mask</div></div></div></div>"
+        },
+        {
+          "id": 16,
+          "type": "rich-view",
+          "html": "<div><div style=display:flex;flex-direction:row;height:100%;padding:5px;background-color:#ff7651;border-radius:10px;><div style=justify-content:center;align-items:center;padding:10px;><img src='https://image.flaticon.com/icons/png/512/15/15574.png' height=80px width=80px></div><div style=justify-content:center;align-items:flex-start;padding:10px;><div style=font-size:20;color:white;>Wash</div><div style=font-size:16;color:white;>Wash your hands</div></div></div></div>"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "list",
+      "title": "Vertical List With PDF",
+      "properties": {
+        "category": "Referral",
+        "horizontal": false,
+        "itemsPerRow": 2,
+        "showIndicator": false
+      },
+      "display": {
+        "aspectRatio": 1.8,
+        "widthOffset": 0.15
+      },
+      "components": [
+        {
+          "id": 1,
+          "type": "pdf",
+          "properties": {
+            "uri": "https://apiuat.pulse.prudentialcorporation-asia.com/api/v1_0_0/cms/6c1b25b0-1e8e-4509-ace5-be6aad96ee0e?namespace=VN"
+          },
+          "actions": [
+            {
+              "on": "click",
+              "actionsToDispatch": [
+                {
+                  "type": "GO_TO_SCREEN",
+                  "navigateTo": "PdfView",
+                  "payload": {
+                    "params": {
+                      "source": {
+                        "uri": "http://www.africau.edu/images/default/sample.pdf"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1122,
+          "type": "pdf",
+          "properties": {
+            "uri": "https://apiuat.pulse.prudentialcorporation-asia.com/api/v1_0_0/cms/4ed7d5f7-17c0-44f1-92b1-0fed6f93412f?namespace=VN"
+          },
+          "actions": [
+            {
+              "on": "click",
+              "actionsToDispatch": [
+                {
+                  "type": "GO_TO_SCREEN",
+                  "navigateTo": "PdfView",
+                  "payload": {
+                    "params": {
+                      "source": {
+                        "uri": "http://www.africau.edu/images/default/sample.pdf"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "type": "image",
+          "properties": {
+            "uri": "https://apiuat.pulse.prudentialcorporation-asia.com/api/v1_0_0/cms/ac0a7d1d8b374e96beefc70c2ee198e7?namespace=VN"
+          },
+          "actions": [
+            {
+              "on": "click",
+              "actionsToDispatch": [
+                {
+                  "type": "GO_TO_SCREEN",
+                  "navigateTo": "PdfView",
+                  "payload": {
+                    "params": {
+                      "source": {
+                        "uri": "http://www.africau.edu/images/default/sample.pdf"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 323122,
+          "type": "pdf",
+          "properties": {
+            "uri": "https://apiuat.pulse.prudentialcorporation-asia.com/api/v1_0_0/cms/4ed7d5f7-17c0-44f1-92b1-0fed6f93412f?namespace=VN"
+          },
+          "actions": [
+            {
+              "on": "click",
+              "actionsToDispatch": [
+                {
+                  "type": "GO_TO_SCREEN",
+                  "navigateTo": "PdfView",
+                  "payload": {
+                    "params": {
+                      "source": {
+                        "uri": "http://www.africau.edu/images/default/sample.pdf"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "type": "image",
+          "properties": {
+            "uri": "https://apiuat.pulse.prudentialcorporation-asia.com/api/v1_0_0/cms/ac0a7d1d8b374e96beefc70c2ee198e7?namespace=VN"
+          },
+          "actions": [
+            {
+              "on": "click",
+              "actionsToDispatch": [
+                {
+                  "type": "GO_TO_SCREEN",
+                  "navigateTo": "PdfView",
+                  "payload": {
+                    "params": {
+                      "source": {
+                        "uri": "http://www.africau.edu/images/default/sample.pdf"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 323122,
+          "type": "pdf",
+          "properties": {
+            "uri": "https://apiuat.pulse.prudentialcorporation-asia.com/api/v1_0_0/cms/4ed7d5f7-17c0-44f1-92b1-0fed6f93412f?namespace=VN"
+          },
+          "actions": [
+            {
+              "on": "click",
+              "actionsToDispatch": [
+                {
+                  "type": "GO_TO_SCREEN",
+                  "navigateTo": "PdfView",
+                  "payload": {
+                    "params": {
+                      "source": {
+                        "uri": "http://www.africau.edu/images/default/sample.pdf"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

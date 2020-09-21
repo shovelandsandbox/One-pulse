@@ -1,0 +1,228 @@
+import { StyleSheet } from "react-native";
+import colors from "../../../../themes/default/colors";
+
+const colorValues = {
+  preparedText: "rgba(97, 97, 97, 1)",
+  myMealPlanTitle: "rgba(47, 47, 47, 1)",
+  weekDate: "rgba(108, 105, 132, 1)",
+  weekDay: "rgba(162, 162, 162, 1)",
+  weekButton: "rgba(241, 23, 43, 1)",
+  container: "rgba(247, 249, 251, 1)",
+  repeatText: "rgba(236, 28, 46, 1)",
+  mealPlanBackground: "rgba(255, 252, 249, 1)",
+};
+export default StyleSheet.create({
+  alertContainer: {
+    alignItems: "center",
+    backgroundColor: "rgba(0, 0, 0, 0.2)",
+    flex: 1,
+    justifyContent: "center",
+  },
+  buttonContainer: {
+    alignSelf: "center",
+    borderRadius: 19.7,
+    height: 36,
+    marginBottom: 26,
+    marginTop: 50,
+    width: 106,
+  },
+  buttonContainerCenter: {
+    marginTop: 130,
+  },
+  buttonGradient: {
+    alignItems: "center",
+    borderRadius: 19.7,
+    height: 36,
+    justifyContent: "center",
+    width: 106,
+  },
+  container: {
+    backgroundColor: colorValues.container,
+    flex: 1,
+  },
+  create: {
+    alignSelf: "center",
+    color: colors.white,
+    fontSize: 13,
+    lineHeight: 15,
+    textAlign: "center",
+    width: 218,
+  },
+  createPlan: {
+    marginLeft: 16,
+    marginTop: 110,
+    width: 148,
+  },
+  createPlanContainer: {
+    backgroundColor: colorValues.mealPlanBackground,
+    flex: 1,
+  },
+  createPlanText: {
+    color: colors.white,
+    fontSize: 15,
+    fontWeight: "bold",
+    lineHeight: 24,
+  },
+  currentDate: {
+    color: colors.white,
+  },
+  currentDateBtn: {
+    backgroundColor: colorValues.weekButton,
+  },
+  divider: {
+    backgroundColor: colors.white,
+    height: 15,
+    width: 2,
+  },
+  header: {
+    marginTop: 21,
+    paddingLeft: 13,
+  },
+  imageBackground: {
+    height: 147,
+  },
+  imageStyle: {
+    height: 147,
+    resizeMode: "cover",
+  },
+  loadingScreen: {
+    alignItems: "center",
+    backgroundColor: "#fff",
+    bottom: 0,
+    flex: 1,
+    height: "100%",
+    justifyContent: "center",
+    width: "100%",
+  },
+  mealPlanImageBackground: {
+    backgroundColor: colorValues.mealPlanBackground,
+    flex: 1,
+  },
+  mealPlanImageStyle: {
+    height: "100%",
+    resizeMode: "cover",
+  },
+  myMealPlanCalorie: {
+    color: colorValues.myMealPlanTitle,
+    fontSize: 13,
+    lineHeight: 15,
+    marginTop: 2,
+  },
+  myMealPlanTitle: {
+    color: colors.white,
+    fontSize: 15,
+    fontWeight: "bold",
+    lineHeight: 18,
+    marginTop: 7,
+  },
+  noMeal: { textAlign: "center" },
+  noMealContainer: {
+    alignItems: "center",
+    flex: 1,
+    justifyContent: "center",
+    marginHorizontal: 10,
+  },
+  nutrition: {
+    alignItems: "center",
+    backgroundColor: colorValues.nutrition,
+    borderRadius: 5,
+    flexDirection: "row",
+    height: 32,
+    justifyContent: "space-between",
+    marginTop: 32,
+    paddingHorizontal: 18,
+    width: 375,
+  },
+  nutritionColumn: {
+    flexDirection: "column",
+    marginBottom: 10,
+  },
+  nutritionText: {
+    color: colors.white,
+    fontSize: 13,
+    fontWeight: "bold",
+    lineHeight: 18,
+    textAlign: "center",
+  },
+  onBoarding: {
+    alignSelf: "center",
+    height: 45,
+    marginTop: 30,
+    width: 45,
+  },
+  onBoardingText: {
+    alignSelf: "center",
+    color: colors.white,
+    fontSize: 16,
+    fontWeight: "bold",
+    lineHeight: 21,
+    marginTop: 10,
+    textAlign: "center",
+    width: 218,
+  },
+  orText: {
+    alignSelf: "center",
+    color: colorValues.myMealPlanTitle,
+    fontSize: 18,
+    fontWeight: "bold",
+    lineHeight: 24,
+    textAlign: "center",
+    width: 26,
+  },
+  preparedText: {
+    color: colors.white,
+    fontSize: 13,
+    fontWeight: "bold",
+    lineHeight: 17,
+  },
+  repeatText: {
+    color: colorValues.repeatText,
+    fontSize: 14,
+    lineHeight: 24,
+    marginTop: 31.7,
+    textAlign: "center",
+    width: 172,
+  },
+  settings: {
+    height: 17.1,
+    width: 17.1,
+  },
+  slotsContainer: {
+    flex: 1,
+    marginTop: 10,
+  },
+  textContainer: {
+    alignSelf: "center",
+  },
+  weekButton: {
+    alignItems: "center",
+    backgroundColor: colors.white,
+    borderRadius: 20,
+    height: 34,
+    justifyContent: "center",
+    marginTop: 10,
+    width: 34,
+  },
+  weekContainer: {
+    backgroundColor: colors.white,
+    flexDirection: "row",
+    paddingLeft: 22,
+    paddingTop: 20,
+  },
+  weekDate: {
+    color: colorValues.weekDate,
+    fontSize: 13,
+    lineHeight: 17,
+    textAlign: "center",
+  },
+  weekDay: {
+    color: colorValues.weekDay,
+    fontSize: 13,
+    lineHeight: 17,
+    textAlign: "center",
+    width: 34,
+  },
+  weekView: {
+    marginHorizontal: 10,
+  },
+});

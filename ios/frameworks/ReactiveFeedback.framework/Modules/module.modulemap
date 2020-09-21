@@ -1,0 +1,11 @@
+framework module ReactiveFeedback {
+  umbrella header "ReactiveFeedback-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module ReactiveFeedback.Swift {
+    header "ReactiveFeedback-Swift.h"
+    requires objc
+}
